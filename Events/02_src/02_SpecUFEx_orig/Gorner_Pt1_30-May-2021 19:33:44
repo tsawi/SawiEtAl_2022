@@ -1,0 +1,15 @@
+
+ans =
+
+     0
+
+This is script #1/2 for NMF
+Station is J8
+J8
+>>>>>>> NMF computation
+{Index in position 1 exceeds array bounds (must not exceed 266).
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('script1_BNPoNMF', '/Users/theresasawi/Documents/SpecUFEx_v1/BB_Gorner_Event_Final_v11_J8/02_src/02_SpecUFEx/script1_BNPoNMF.m', 105)" style="font-weight:bold">script1_BNPoNMF</a> (<a href="matlab: opentoline('/Users/theresasawi/Documents/SpecUFEx_v1/BB_Gorner_Event_Final_v11_J8/02_src/02_SpecUFEx/script1_BNPoNMF.m',105,0)">line 105</a>)
+            STFT = STFT(1:dim,:);
+} 
+run_scripts

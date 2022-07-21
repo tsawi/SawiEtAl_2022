@@ -1,0 +1,148 @@
+
+ans =
+
+     0
+
+This is script #1/2 for NMF
+Station is J8
+
+ans =
+
+     0
+
+J8
+>>>>>>> NMF computation
+
+dim =
+
+   266
+
+
+ans =
+
+     0
+
+Current step is 50/100000
+Current step is 50/100000
+About 116.2208 minutes remaining...
+Warning: the font "Times" is not available, so "Lucida Bright" has been substituted, but may have unexpected appearance or behavor. Re-enable the "Times" font to remove this warning.Current step is 100/100000
+Current step is 100/100000
+About 94.8629 minutes remaining...
+
+Warning: the font "Times" is not available, so "Lucida Bright" has been substituted, but may have unexpected appearance or behavor. Re-enable the "Times" font to remove this warning.
+Current step is 150/100000
+Current step is 150/100000
+About 93.2292 minutes remaining...
+Current step is 200/100000
+Current step is 200/100000
+About 96.1587 minutes remaining...
+Current step is 250/100000
+Current step is 250/100000
+About 82.8683 minutes remaining...
+Current step is 300/100000
+Current step is 300/100000
+About 82.9665 minutes remaining...
+Current step is 350/100000
+Current step is 350/100000
+About 106.7422 minutes remaining...
+{Operation terminated by user during script1_BNPoNMF (line 138)
+
+
+In run (line 91)
+evalin('caller', strcat(script, ';'));
+} 
+pwd
+
+ans =
+
+    '/Users/theresasawi/Documents/SpecUFEx_v1/BB_Gorner_Event_Redo_v2/02_src/02_SpecUFEx'
+
+pwd
+
+ans =
+
+    '/Users/theresasawi/Documents/SpecUFEx_v1/BB_Gorner_Event_Redo_v2/02_src/02_SpecUFEx'
+
+cd ../../
+ls
+01_input
+02_src
+03_output
+04_notes
+BB_Gorner_Event_Redo_v2_data.hdf5
+BB_Gorner_Event_Redo_v2_data.hdf5_Sgrams_Subcatalog.hdf5
+SpecUFEx_out_BB_Gorner_Event_Redo_v2_all.hdf5
+hourlyHist_allEvents.png
+simple_event_map_Elevation_m.png
+simple_event_map_datetime.png
+simple_event_map_depth_max50m.png
+simple_event_map_hourFrac.png
+
+cd ../
+ls
+!!Powerpoints_LabBooks			BB_Parkfield_noise_01
+00_mkDir.sh				Basal_All
+01_copyFolderToTage_single.sh		CC_Gorner_Cont_J5
+02_copyFromTage_BEST.sh			DD_Gorner_Cont_J5
+AA_Parkfield				ErtaAle_07
+AGU_Figures				ErtaAle_08
+AGU_Figures_orig			ErtaAle_09
+ALLSOUNDS				FuzzyCluster
+BB_Gorner_Cont_Final_v10_J1		GARCIA_BundledData2007
+BB_Gorner_Cont_Final_v10_J2		GEYSERS
+BB_Gorner_Cont_Final_v10_J3		GEYSERS_v2
+BB_Gorner_Cont_Final_v10_J4		GEYSERS_v2_Noise
+BB_Gorner_Cont_Final_v10_J5		GGNoise_J4
+BB_Gorner_Cont_Final_v10_J7		GG_W055_S15
+BB_Gorner_Cont_Final_v10_J8		GG_W055_S15_J8
+BB_Gorner_Cont_Final_v10_J8 copy	GetNoiseSamples
+BB_Gorner_Cont_Final_v11_J5		Gorner_J458_ppt.key
+BB_Gorner_Cont_Final_v12_J5		Gorner_J458_ppt_v2.key
+BB_Gorner_Cont_Final_v13_J5		J458Cont
+BB_Gorner_Cont_Final_v14_J5		J458Cont_v2
+BB_Gorner_Cont_Final_v15_J5		J458Cont_v2_backup_diffClust
+BB_Gorner_Cont_Final_v2			J4Cont_Clean
+BB_Gorner_Cont_Final_v2_J4		J4Cont_v2
+BB_Gorner_Cont_Final_v2_J8		J4_Signal
+BB_Gorner_Cont_Final_v3_J5		J5Cont_Clean
+BB_Gorner_Cont_Final_v3_J5 copy		J5Cont_v2
+BB_Gorner_Cont_Final_v4_J5		J8Cont
+BB_Gorner_Cont_Final_v5_J5		J8Cont_v2
+BB_Gorner_Cont_Final_v6_J5		MLScriptsTage copy
+BB_Gorner_Cont_Final_v7_J5		MLScriptsTage_01
+BB_Gorner_Cont_Final_v8_J5		MLScripts_FromTage
+BB_Gorner_Cont_Final_v9_J5		MLScripts_NEWW
+BB_Gorner_Cont_Redo			Preprocessing
+BB_Gorner_Event_Final_v10_J8		Pyrocko_1
+BB_Gorner_Event_Final_v11_J4		ShellScripts
+BB_Gorner_Event_Final_v11_J5		Sonify_codes
+BB_Gorner_Event_Final_v11_J8		SpecUFEX_newCodes
+BB_Gorner_Event_Final_v2_J4		SpecUFEx_Original
+BB_Gorner_Event_Final_v2_J5		SyntheticSignals
+BB_Gorner_Event_Final_v2_J8		TageMLRUNsrcipts
+BB_Gorner_Event_Final_v3_J5		Xhat.csv
+BB_Gorner_Event_Final_v3_J8		Xhat.m
+BB_Gorner_Event_Final_v4_J5		backUpLyman.sh
+BB_Gorner_Event_Final_v5_J5		contRec_DOY_J5
+BB_Gorner_Event_Final_v6_J5		fromTage_gornerLabeledFolder
+BB_Gorner_Event_Final_v7_J5		gorner_misc_expts
+BB_Gorner_Event_Final_v8_J5		machine_listening-master
+BB_Gorner_Event_Final_v8_J8		machine_listening-master.zip
+BB_Gorner_Event_Final_v9_J8		missingWFTage
+BB_Gorner_Event_Redo			old_events_Gorner_20210227
+BB_Gorner_Event_Redo_v2			randNew
+BB_Parkfield_01				research_schedule_20190625.numbers
+BB_Parkfield_02				waveforms_all_Local.csv
+BB_Parkfield_03				waveforms_all_Tage.csv
+BB_Parkfield_04
+
+cd BB_Gorner_Cont_Redo/
+cd 02_src/02_SpecUFEx/
+ls
+Gorner_Pt1_16-Jul-2022 16:00:19	run_scripts.m
+Gorner_Pt1_16-Jul-2022 16:00:45	script1_BNPoNMF.m
+Gorner_Pt1_16-Jul-2022 16:00:59	script2_getHfinal.m
+insertName.m			script3_oPoisHMM.m
+runMatlab.sh			script4_getHMMfinal.m
+
+run 'script1_BNPoNMF'

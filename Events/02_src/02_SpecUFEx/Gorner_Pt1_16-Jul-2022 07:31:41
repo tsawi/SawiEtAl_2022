@@ -1,0 +1,26 @@
+
+ans =
+
+     0
+
+This is script #1/2 for NMF
+Station is J8
+
+ans =
+
+     0
+
+J8
+>>>>>>> NMF computation
+
+ans =
+
+     0
+
+{Operation terminated by user during script1_BNPoNMF (line 142)
+
+
+In run (line 91)
+evalin('caller', strcat(script, ';'));
+} 
+run 'script1_BNPoNMF'

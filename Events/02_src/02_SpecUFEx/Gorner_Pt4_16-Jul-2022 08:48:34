@@ -1,0 +1,4401 @@
+
+ans =
+
+     0
+
+This is script #2/2 for HMMs
+X years of data, Station is J8
+
+ans =
+
+     0
+
+J8
+>>>>>>> final HMM computation
+Current step is 1/1457
+Finished HMM 1 : 0.88741 minutes left
+Current step is 2/1457
+Finished HMM 2 : 0.67461 minutes left
+Current step is 3/1457
+Finished HMM 3 : 0.57752 minutes left
+Current step is 4/1457
+Finished HMM 4 : 0.53463 minutes left
+Current step is 5/1457
+Finished HMM 5 : 0.52419 minutes left
+Current step is 6/1457
+Finished HMM 6 : 0.50483 minutes left
+Current step is 7/1457
+Finished HMM 7 : 0.47718 minutes left
+Current step is 8/1457
+Finished HMM 8 : 0.45181 minutes left
+Current step is 9/1457
+Finished HMM 9 : 0.4339 minutes left
+Current step is 10/1457
+Finished HMM 10 : 0.42033 minutes left
+Current step is 11/1457
+Finished HMM 11 : 0.40598 minutes left
+Current step is 12/1457
+Finished HMM 12 : 0.39515 minutes left
+Current step is 13/1457
+Finished HMM 13 : 0.38654 minutes left
+Current step is 14/1457
+Finished HMM 14 : 0.37781 minutes left
+Current step is 15/1457
+Finished HMM 15 : 0.37178 minutes left
+Current step is 16/1457
+Finished HMM 16 : 0.36591 minutes left
+Current step is 17/1457
+Finished HMM 17 : 0.35966 minutes left
+Current step is 18/1457
+Finished HMM 18 : 0.35497 minutes left
+Current step is 19/1457
+Finished HMM 19 : 0.35063 minutes left
+Current step is 20/1457
+Finished HMM 20 : 0.34604 minutes left
+Current step is 21/1457
+Finished HMM 21 : 0.34243 minutes left
+Current step is 22/1457
+Finished HMM 22 : 0.33851 minutes left
+Current step is 23/1457
+Finished HMM 23 : 0.33541 minutes left
+Current step is 24/1457
+Finished HMM 24 : 0.3329 minutes left
+Current step is 25/1457
+Finished HMM 25 : 0.33013 minutes left
+Current step is 26/1457
+Finished HMM 26 : 0.32704 minutes left
+Current step is 27/1457
+Finished HMM 27 : 0.32452 minutes left
+Current step is 28/1457
+Finished HMM 28 : 0.32196 minutes left
+Current step is 29/1457
+Finished HMM 29 : 0.31958 minutes left
+Current step is 30/1457
+Finished HMM 30 : 0.31694 minutes left
+Current step is 31/1457
+Finished HMM 31 : 0.31534 minutes left
+Current step is 32/1457
+Finished HMM 32 : 0.31377 minutes left
+Current step is 33/1457
+Finished HMM 33 : 0.3118 minutes left
+Current step is 34/1457
+Finished HMM 34 : 0.31034 minutes left
+Current step is 35/1457
+Finished HMM 35 : 0.30868 minutes left
+Current step is 36/1457
+Finished HMM 36 : 0.30727 minutes left
+Current step is 37/1457
+Finished HMM 37 : 0.30595 minutes left
+Current step is 38/1457
+Finished HMM 38 : 0.30443 minutes left
+Current step is 39/1457
+Finished HMM 39 : 0.3028 minutes left
+Current step is 40/1457
+Finished HMM 40 : 0.30152 minutes left
+Current step is 41/1457
+Finished HMM 41 : 0.30026 minutes left
+Current step is 42/1457
+Finished HMM 42 : 0.29882 minutes left
+Current step is 43/1457
+Finished HMM 43 : 0.29739 minutes left
+Current step is 44/1457
+Finished HMM 44 : 0.29629 minutes left
+Current step is 45/1457
+Finished HMM 45 : 0.29511 minutes left
+Current step is 46/1457
+Finished HMM 46 : 0.29381 minutes left
+Current step is 47/1457
+Finished HMM 47 : 0.29276 minutes left
+Current step is 48/1457
+Finished HMM 48 : 0.29203 minutes left
+Current step is 49/1457
+Finished HMM 49 : 0.29085 minutes left
+Current step is 50/1457
+Finished HMM 50 : 0.29004 minutes left
+Current step is 51/1457
+Finished HMM 51 : 0.28945 minutes left
+Current step is 52/1457
+Finished HMM 52 : 0.2892 minutes left
+Current step is 53/1457
+Finished HMM 53 : 0.28863 minutes left
+Current step is 54/1457
+Finished HMM 54 : 0.28791 minutes left
+Current step is 55/1457
+Finished HMM 55 : 0.28702 minutes left
+Current step is 56/1457
+Finished HMM 56 : 0.28634 minutes left
+Current step is 57/1457
+Finished HMM 57 : 0.28589 minutes left
+Current step is 58/1457
+Finished HMM 58 : 0.2853 minutes left
+Current step is 59/1457
+Finished HMM 59 : 0.28454 minutes left
+Current step is 60/1457
+Finished HMM 60 : 0.28381 minutes left
+Current step is 61/1457
+Finished HMM 61 : 0.28293 minutes left
+Current step is 62/1457
+Finished HMM 62 : 0.28234 minutes left
+Current step is 63/1457
+Finished HMM 63 : 0.28178 minutes left
+Current step is 64/1457
+Finished HMM 64 : 0.28107 minutes left
+Current step is 65/1457
+Finished HMM 65 : 0.28034 minutes left
+Current step is 66/1457
+Finished HMM 66 : 0.27975 minutes left
+Current step is 67/1457
+Finished HMM 67 : 0.27928 minutes left
+Current step is 68/1457
+Finished HMM 68 : 0.27883 minutes left
+Current step is 69/1457
+Finished HMM 69 : 0.2782 minutes left
+Current step is 70/1457
+Finished HMM 70 : 0.27762 minutes left
+Current step is 71/1457
+Finished HMM 71 : 0.27703 minutes left
+Current step is 72/1457
+Finished HMM 72 : 0.27655 minutes left
+Current step is 73/1457
+Finished HMM 73 : 0.2763 minutes left
+Current step is 74/1457
+Finished HMM 74 : 0.27632 minutes left
+Current step is 75/1457
+Finished HMM 75 : 0.27596 minutes left
+Current step is 76/1457
+Finished HMM 76 : 0.27569 minutes left
+Current step is 77/1457
+Finished HMM 77 : 0.27551 minutes left
+Current step is 78/1457
+Finished HMM 78 : 0.2753 minutes left
+Current step is 79/1457
+Finished HMM 79 : 0.27481 minutes left
+Current step is 80/1457
+Finished HMM 80 : 0.27452 minutes left
+Current step is 81/1457
+Finished HMM 81 : 0.27407 minutes left
+Current step is 82/1457
+Finished HMM 82 : 0.27366 minutes left
+Current step is 83/1457
+Finished HMM 83 : 0.2733 minutes left
+Current step is 84/1457
+Finished HMM 84 : 0.27287 minutes left
+Current step is 85/1457
+Finished HMM 85 : 0.27242 minutes left
+Current step is 86/1457
+Finished HMM 86 : 0.272 minutes left
+Current step is 87/1457
+Finished HMM 87 : 0.27151 minutes left
+Current step is 88/1457
+Finished HMM 88 : 0.27094 minutes left
+Current step is 89/1457
+Finished HMM 89 : 0.27064 minutes left
+Current step is 90/1457
+Finished HMM 90 : 0.27022 minutes left
+Current step is 91/1457
+Finished HMM 91 : 0.26992 minutes left
+Current step is 92/1457
+Finished HMM 92 : 0.26936 minutes left
+Current step is 93/1457
+Finished HMM 93 : 0.26909 minutes left
+Current step is 94/1457
+Finished HMM 94 : 0.26877 minutes left
+Current step is 95/1457
+Finished HMM 95 : 0.26825 minutes left
+Current step is 96/1457
+Finished HMM 96 : 0.2677 minutes left
+Current step is 97/1457
+Finished HMM 97 : 0.26719 minutes left
+Current step is 98/1457
+Finished HMM 98 : 0.26682 minutes left
+Current step is 99/1457
+Finished HMM 99 : 0.26633 minutes left
+Current step is 100/1457
+Finished HMM 100 : 0.26569 minutes left
+Current step is 101/1457
+Finished HMM 101 : 0.26503 minutes left
+Current step is 102/1457
+Finished HMM 102 : 0.26454 minutes left
+Current step is 103/1457
+Finished HMM 103 : 0.26403 minutes left
+Current step is 104/1457
+Finished HMM 104 : 0.2635 minutes left
+Current step is 105/1457
+Finished HMM 105 : 0.26311 minutes left
+Current step is 106/1457
+Finished HMM 106 : 0.26271 minutes left
+Current step is 107/1457
+Finished HMM 107 : 0.2621 minutes left
+Current step is 108/1457
+Finished HMM 108 : 0.26158 minutes left
+Current step is 109/1457
+Finished HMM 109 : 0.26112 minutes left
+Current step is 110/1457
+Finished HMM 110 : 0.26071 minutes left
+Current step is 111/1457
+Finished HMM 111 : 0.26029 minutes left
+Current step is 112/1457
+Finished HMM 112 : 0.25979 minutes left
+Current step is 113/1457
+Finished HMM 113 : 0.25935 minutes left
+Current step is 114/1457
+Finished HMM 114 : 0.25891 minutes left
+Current step is 115/1457
+Finished HMM 115 : 0.2585 minutes left
+Current step is 116/1457
+Finished HMM 116 : 0.25801 minutes left
+Current step is 117/1457
+Finished HMM 117 : 0.2577 minutes left
+Current step is 118/1457
+Finished HMM 118 : 0.2573 minutes left
+Current step is 119/1457
+Finished HMM 119 : 0.25684 minutes left
+Current step is 120/1457
+Finished HMM 120 : 0.25648 minutes left
+Current step is 121/1457
+Finished HMM 121 : 0.25615 minutes left
+Current step is 122/1457
+Finished HMM 122 : 0.25566 minutes left
+Current step is 123/1457
+Finished HMM 123 : 0.25528 minutes left
+Current step is 124/1457
+Finished HMM 124 : 0.25504 minutes left
+Current step is 125/1457
+Finished HMM 125 : 0.25474 minutes left
+Current step is 126/1457
+Finished HMM 126 : 0.25438 minutes left
+Current step is 127/1457
+Finished HMM 127 : 0.25397 minutes left
+Current step is 128/1457
+Finished HMM 128 : 0.25351 minutes left
+Current step is 129/1457
+Finished HMM 129 : 0.2531 minutes left
+Current step is 130/1457
+Finished HMM 130 : 0.25265 minutes left
+Current step is 131/1457
+Finished HMM 131 : 0.25233 minutes left
+Current step is 132/1457
+Finished HMM 132 : 0.25194 minutes left
+Current step is 133/1457
+Finished HMM 133 : 0.25153 minutes left
+Current step is 134/1457
+Finished HMM 134 : 0.25123 minutes left
+Current step is 135/1457
+Finished HMM 135 : 0.25081 minutes left
+Current step is 136/1457
+Finished HMM 136 : 0.25051 minutes left
+Current step is 137/1457
+Finished HMM 137 : 0.25013 minutes left
+Current step is 138/1457
+Finished HMM 138 : 0.24977 minutes left
+Current step is 139/1457
+Finished HMM 139 : 0.24934 minutes left
+Current step is 140/1457
+Finished HMM 140 : 0.24901 minutes left
+Current step is 141/1457
+Finished HMM 141 : 0.24871 minutes left
+Current step is 142/1457
+Finished HMM 142 : 0.24838 minutes left
+Current step is 143/1457
+Finished HMM 143 : 0.24806 minutes left
+Current step is 144/1457
+Finished HMM 144 : 0.24765 minutes left
+Current step is 145/1457
+Finished HMM 145 : 0.24732 minutes left
+Current step is 146/1457
+Finished HMM 146 : 0.24702 minutes left
+Current step is 147/1457
+Finished HMM 147 : 0.24669 minutes left
+Current step is 148/1457
+Finished HMM 148 : 0.24637 minutes left
+Current step is 149/1457
+Finished HMM 149 : 0.24619 minutes left
+Current step is 150/1457
+Finished HMM 150 : 0.24605 minutes left
+Current step is 151/1457
+Finished HMM 151 : 0.24575 minutes left
+Current step is 152/1457
+Finished HMM 152 : 0.2455 minutes left
+Current step is 153/1457
+Finished HMM 153 : 0.24535 minutes left
+Current step is 154/1457
+Finished HMM 154 : 0.24513 minutes left
+Current step is 155/1457
+Finished HMM 155 : 0.24496 minutes left
+Current step is 156/1457
+Finished HMM 156 : 0.24466 minutes left
+Current step is 157/1457
+Finished HMM 157 : 0.24429 minutes left
+Current step is 158/1457
+Finished HMM 158 : 0.24395 minutes left
+Current step is 159/1457
+Finished HMM 159 : 0.24357 minutes left
+Current step is 160/1457
+Finished HMM 160 : 0.24327 minutes left
+Current step is 161/1457
+Finished HMM 161 : 0.24305 minutes left
+Current step is 162/1457
+Finished HMM 162 : 0.24268 minutes left
+Current step is 163/1457
+Finished HMM 163 : 0.24228 minutes left
+Current step is 164/1457
+Finished HMM 164 : 0.24193 minutes left
+Current step is 165/1457
+Finished HMM 165 : 0.24174 minutes left
+Current step is 166/1457
+Finished HMM 166 : 0.24148 minutes left
+Current step is 167/1457
+Finished HMM 167 : 0.24132 minutes left
+Current step is 168/1457
+Finished HMM 168 : 0.24111 minutes left
+Current step is 169/1457
+Finished HMM 169 : 0.24094 minutes left
+Current step is 170/1457
+Finished HMM 170 : 0.24067 minutes left
+Current step is 171/1457
+Finished HMM 171 : 0.2403 minutes left
+Current step is 172/1457
+Finished HMM 172 : 0.24005 minutes left
+Current step is 173/1457
+Finished HMM 173 : 0.23985 minutes left
+Current step is 174/1457
+Finished HMM 174 : 0.2396 minutes left
+Current step is 175/1457
+Finished HMM 175 : 0.23934 minutes left
+Current step is 176/1457
+Finished HMM 176 : 0.23912 minutes left
+Current step is 177/1457
+Finished HMM 177 : 0.23888 minutes left
+Current step is 178/1457
+Finished HMM 178 : 0.23863 minutes left
+Current step is 179/1457
+Finished HMM 179 : 0.23839 minutes left
+Current step is 180/1457
+Finished HMM 180 : 0.2381 minutes left
+Current step is 181/1457
+Finished HMM 181 : 0.23785 minutes left
+Current step is 182/1457
+Finished HMM 182 : 0.23758 minutes left
+Current step is 183/1457
+Finished HMM 183 : 0.23733 minutes left
+Current step is 184/1457
+Finished HMM 184 : 0.23705 minutes left
+Current step is 185/1457
+Finished HMM 185 : 0.23682 minutes left
+Current step is 186/1457
+Finished HMM 186 : 0.23655 minutes left
+Current step is 187/1457
+Finished HMM 187 : 0.2363 minutes left
+Current step is 188/1457
+Finished HMM 188 : 0.23602 minutes left
+Current step is 189/1457
+Finished HMM 189 : 0.23571 minutes left
+Current step is 190/1457
+Finished HMM 190 : 0.23541 minutes left
+Current step is 191/1457
+Finished HMM 191 : 0.2351 minutes left
+Current step is 192/1457
+Finished HMM 192 : 0.23488 minutes left
+Current step is 193/1457
+Finished HMM 193 : 0.23467 minutes left
+Current step is 194/1457
+Finished HMM 194 : 0.2344 minutes left
+Current step is 195/1457
+Finished HMM 195 : 0.2342 minutes left
+Current step is 196/1457
+Finished HMM 196 : 0.23385 minutes left
+Current step is 197/1457
+Finished HMM 197 : 0.23363 minutes left
+Current step is 198/1457
+Finished HMM 198 : 0.23341 minutes left
+Current step is 199/1457
+Finished HMM 199 : 0.23309 minutes left
+Current step is 200/1457
+Finished HMM 200 : 0.23282 minutes left
+Current step is 201/1457
+Finished HMM 201 : 0.23256 minutes left
+Current step is 202/1457
+Finished HMM 202 : 0.23228 minutes left
+Current step is 203/1457
+Finished HMM 203 : 0.232 minutes left
+Current step is 204/1457
+Finished HMM 204 : 0.23171 minutes left
+Current step is 205/1457
+Finished HMM 205 : 0.23145 minutes left
+Current step is 206/1457
+Finished HMM 206 : 0.23118 minutes left
+Current step is 207/1457
+Finished HMM 207 : 0.23088 minutes left
+Current step is 208/1457
+Finished HMM 208 : 0.2306 minutes left
+Current step is 209/1457
+Finished HMM 209 : 0.23037 minutes left
+Current step is 210/1457
+Finished HMM 210 : 0.2301 minutes left
+Current step is 211/1457
+Finished HMM 211 : 0.22988 minutes left
+Current step is 212/1457
+Finished HMM 212 : 0.22964 minutes left
+Current step is 213/1457
+Finished HMM 213 : 0.2294 minutes left
+Current step is 214/1457
+Finished HMM 214 : 0.22916 minutes left
+Current step is 215/1457
+Finished HMM 215 : 0.22889 minutes left
+Current step is 216/1457
+Finished HMM 216 : 0.22857 minutes left
+Current step is 217/1457
+Finished HMM 217 : 0.22825 minutes left
+Current step is 218/1457
+Finished HMM 218 : 0.22802 minutes left
+Current step is 219/1457
+Finished HMM 219 : 0.22772 minutes left
+Current step is 220/1457
+Finished HMM 220 : 0.22748 minutes left
+Current step is 221/1457
+Finished HMM 221 : 0.22716 minutes left
+Current step is 222/1457
+Finished HMM 222 : 0.22682 minutes left
+Current step is 223/1457
+Finished HMM 223 : 0.22659 minutes left
+Current step is 224/1457
+Finished HMM 224 : 0.22633 minutes left
+Current step is 225/1457
+Finished HMM 225 : 0.22614 minutes left
+Current step is 226/1457
+Finished HMM 226 : 0.22588 minutes left
+Current step is 227/1457
+Finished HMM 227 : 0.22565 minutes left
+Current step is 228/1457
+Finished HMM 228 : 0.22539 minutes left
+Current step is 229/1457
+Finished HMM 229 : 0.22515 minutes left
+Current step is 230/1457
+Finished HMM 230 : 0.22485 minutes left
+Current step is 231/1457
+Finished HMM 231 : 0.22461 minutes left
+Current step is 232/1457
+Finished HMM 232 : 0.22435 minutes left
+Current step is 233/1457
+Finished HMM 233 : 0.22413 minutes left
+Current step is 234/1457
+Finished HMM 234 : 0.22393 minutes left
+Current step is 235/1457
+Finished HMM 235 : 0.22373 minutes left
+Current step is 236/1457
+Finished HMM 236 : 0.22345 minutes left
+Current step is 237/1457
+Finished HMM 237 : 0.22322 minutes left
+Current step is 238/1457
+Finished HMM 238 : 0.22303 minutes left
+Current step is 239/1457
+Finished HMM 239 : 0.22275 minutes left
+Current step is 240/1457
+Finished HMM 240 : 0.22252 minutes left
+Current step is 241/1457
+Finished HMM 241 : 0.22234 minutes left
+Current step is 242/1457
+Finished HMM 242 : 0.22216 minutes left
+Current step is 243/1457
+Finished HMM 243 : 0.22193 minutes left
+Current step is 244/1457
+Finished HMM 244 : 0.22165 minutes left
+Current step is 245/1457
+Finished HMM 245 : 0.22145 minutes left
+Current step is 246/1457
+Finished HMM 246 : 0.2213 minutes left
+Current step is 247/1457
+Finished HMM 247 : 0.2211 minutes left
+Current step is 248/1457
+Finished HMM 248 : 0.22092 minutes left
+Current step is 249/1457
+Finished HMM 249 : 0.22071 minutes left
+Current step is 250/1457
+Finished HMM 250 : 0.22054 minutes left
+Current step is 251/1457
+Finished HMM 251 : 0.22029 minutes left
+Current step is 252/1457
+Finished HMM 252 : 0.2202 minutes left
+Current step is 253/1457
+Finished HMM 253 : 0.22003 minutes left
+Current step is 254/1457
+Finished HMM 254 : 0.21981 minutes left
+Current step is 255/1457
+Finished HMM 255 : 0.21964 minutes left
+Current step is 256/1457
+Finished HMM 256 : 0.21945 minutes left
+Current step is 257/1457
+Finished HMM 257 : 0.21934 minutes left
+Current step is 258/1457
+Finished HMM 258 : 0.2192 minutes left
+Current step is 259/1457
+Finished HMM 259 : 0.21897 minutes left
+Current step is 260/1457
+Finished HMM 260 : 0.21873 minutes left
+Current step is 261/1457
+Finished HMM 261 : 0.21853 minutes left
+Current step is 262/1457
+Finished HMM 262 : 0.21836 minutes left
+Current step is 263/1457
+Finished HMM 263 : 0.21817 minutes left
+Current step is 264/1457
+Finished HMM 264 : 0.21794 minutes left
+Current step is 265/1457
+Finished HMM 265 : 0.21774 minutes left
+Current step is 266/1457
+Finished HMM 266 : 0.21754 minutes left
+Current step is 267/1457
+Finished HMM 267 : 0.2173 minutes left
+Current step is 268/1457
+Finished HMM 268 : 0.21714 minutes left
+Current step is 269/1457
+Finished HMM 269 : 0.21693 minutes left
+Current step is 270/1457
+Finished HMM 270 : 0.21674 minutes left
+Current step is 271/1457
+Finished HMM 271 : 0.2165 minutes left
+Current step is 272/1457
+Finished HMM 272 : 0.21625 minutes left
+Current step is 273/1457
+Finished HMM 273 : 0.21602 minutes left
+Current step is 274/1457
+Finished HMM 274 : 0.21579 minutes left
+Current step is 275/1457
+Finished HMM 275 : 0.2155 minutes left
+Current step is 276/1457
+Finished HMM 276 : 0.21523 minutes left
+Current step is 277/1457
+Finished HMM 277 : 0.21499 minutes left
+Current step is 278/1457
+Finished HMM 278 : 0.21473 minutes left
+Current step is 279/1457
+Finished HMM 279 : 0.21453 minutes left
+Current step is 280/1457
+Finished HMM 280 : 0.21427 minutes left
+Current step is 281/1457
+Finished HMM 281 : 0.21405 minutes left
+Current step is 282/1457
+Finished HMM 282 : 0.21383 minutes left
+Current step is 283/1457
+Finished HMM 283 : 0.21358 minutes left
+Current step is 284/1457
+Finished HMM 284 : 0.21334 minutes left
+Current step is 285/1457
+Finished HMM 285 : 0.21308 minutes left
+Current step is 286/1457
+Finished HMM 286 : 0.21283 minutes left
+Current step is 287/1457
+Finished HMM 287 : 0.21264 minutes left
+Current step is 288/1457
+Finished HMM 288 : 0.21243 minutes left
+Current step is 289/1457
+Finished HMM 289 : 0.21223 minutes left
+Current step is 290/1457
+Finished HMM 290 : 0.21202 minutes left
+Current step is 291/1457
+Finished HMM 291 : 0.21179 minutes left
+Current step is 292/1457
+Finished HMM 292 : 0.21153 minutes left
+Current step is 293/1457
+Finished HMM 293 : 0.21136 minutes left
+Current step is 294/1457
+Finished HMM 294 : 0.21114 minutes left
+Current step is 295/1457
+Finished HMM 295 : 0.21092 minutes left
+Current step is 296/1457
+Finished HMM 296 : 0.2107 minutes left
+Current step is 297/1457
+Finished HMM 297 : 0.2105 minutes left
+Current step is 298/1457
+Finished HMM 298 : 0.21027 minutes left
+Current step is 299/1457
+Finished HMM 299 : 0.21006 minutes left
+Current step is 300/1457
+Finished HMM 300 : 0.20981 minutes left
+Current step is 301/1457
+Finished HMM 301 : 0.20961 minutes left
+Current step is 302/1457
+Finished HMM 302 : 0.20936 minutes left
+Current step is 303/1457
+Finished HMM 303 : 0.20915 minutes left
+Current step is 304/1457
+Finished HMM 304 : 0.20893 minutes left
+Current step is 305/1457
+Finished HMM 305 : 0.20874 minutes left
+Current step is 306/1457
+Finished HMM 306 : 0.20851 minutes left
+Current step is 307/1457
+Finished HMM 307 : 0.20835 minutes left
+Current step is 308/1457
+Finished HMM 308 : 0.20814 minutes left
+Current step is 309/1457
+Finished HMM 309 : 0.20789 minutes left
+Current step is 310/1457
+Finished HMM 310 : 0.20769 minutes left
+Current step is 311/1457
+Finished HMM 311 : 0.20747 minutes left
+Current step is 312/1457
+Finished HMM 312 : 0.20725 minutes left
+Current step is 313/1457
+Finished HMM 313 : 0.20704 minutes left
+Current step is 314/1457
+Finished HMM 314 : 0.20688 minutes left
+Current step is 315/1457
+Finished HMM 315 : 0.20668 minutes left
+Current step is 316/1457
+Finished HMM 316 : 0.20648 minutes left
+Current step is 317/1457
+Finished HMM 317 : 0.2063 minutes left
+Current step is 318/1457
+Finished HMM 318 : 0.20612 minutes left
+Current step is 319/1457
+Finished HMM 319 : 0.20593 minutes left
+Current step is 320/1457
+Finished HMM 320 : 0.20569 minutes left
+Current step is 321/1457
+Finished HMM 321 : 0.20545 minutes left
+Current step is 322/1457
+Finished HMM 322 : 0.20525 minutes left
+Current step is 323/1457
+Finished HMM 323 : 0.20501 minutes left
+Current step is 324/1457
+Finished HMM 324 : 0.20475 minutes left
+Current step is 325/1457
+Finished HMM 325 : 0.20453 minutes left
+Current step is 326/1457
+Finished HMM 326 : 0.20431 minutes left
+Current step is 327/1457
+Finished HMM 327 : 0.20412 minutes left
+Current step is 328/1457
+Finished HMM 328 : 0.20392 minutes left
+Current step is 329/1457
+Finished HMM 329 : 0.20376 minutes left
+Current step is 330/1457
+Finished HMM 330 : 0.2036 minutes left
+Current step is 331/1457
+Finished HMM 331 : 0.20338 minutes left
+Current step is 332/1457
+Finished HMM 332 : 0.20316 minutes left
+Current step is 333/1457
+Finished HMM 333 : 0.20295 minutes left
+Current step is 334/1457
+Finished HMM 334 : 0.20273 minutes left
+Current step is 335/1457
+Finished HMM 335 : 0.20256 minutes left
+Current step is 336/1457
+Finished HMM 336 : 0.20235 minutes left
+Current step is 337/1457
+Finished HMM 337 : 0.20216 minutes left
+Current step is 338/1457
+Finished HMM 338 : 0.20195 minutes left
+Current step is 339/1457
+Finished HMM 339 : 0.20172 minutes left
+Current step is 340/1457
+Finished HMM 340 : 0.20151 minutes left
+Current step is 341/1457
+Finished HMM 341 : 0.20133 minutes left
+Current step is 342/1457
+Finished HMM 342 : 0.20114 minutes left
+Current step is 343/1457
+Finished HMM 343 : 0.20094 minutes left
+Current step is 344/1457
+Finished HMM 344 : 0.20073 minutes left
+Current step is 345/1457
+Finished HMM 345 : 0.20052 minutes left
+Current step is 346/1457
+Finished HMM 346 : 0.20032 minutes left
+Current step is 347/1457
+Finished HMM 347 : 0.20011 minutes left
+Current step is 348/1457
+Finished HMM 348 : 0.1999 minutes left
+Current step is 349/1457
+Finished HMM 349 : 0.1997 minutes left
+Current step is 350/1457
+Finished HMM 350 : 0.19948 minutes left
+Current step is 351/1457
+Finished HMM 351 : 0.19929 minutes left
+Current step is 352/1457
+Finished HMM 352 : 0.19912 minutes left
+Current step is 353/1457
+Finished HMM 353 : 0.19891 minutes left
+Current step is 354/1457
+Finished HMM 354 : 0.1987 minutes left
+Current step is 355/1457
+Finished HMM 355 : 0.1985 minutes left
+Current step is 356/1457
+Finished HMM 356 : 0.19828 minutes left
+Current step is 357/1457
+Finished HMM 357 : 0.19808 minutes left
+Current step is 358/1457
+Finished HMM 358 : 0.19788 minutes left
+Current step is 359/1457
+Finished HMM 359 : 0.19767 minutes left
+Current step is 360/1457
+Finished HMM 360 : 0.19748 minutes left
+Current step is 361/1457
+Finished HMM 361 : 0.19727 minutes left
+Current step is 362/1457
+Finished HMM 362 : 0.19706 minutes left
+Current step is 363/1457
+Finished HMM 363 : 0.19684 minutes left
+Current step is 364/1457
+Finished HMM 364 : 0.19664 minutes left
+Current step is 365/1457
+Finished HMM 365 : 0.19645 minutes left
+Current step is 366/1457
+Finished HMM 366 : 0.19624 minutes left
+Current step is 367/1457
+Finished HMM 367 : 0.19605 minutes left
+Current step is 368/1457
+Finished HMM 368 : 0.19585 minutes left
+Current step is 369/1457
+Finished HMM 369 : 0.19568 minutes left
+Current step is 370/1457
+Finished HMM 370 : 0.19548 minutes left
+Current step is 371/1457
+Finished HMM 371 : 0.19528 minutes left
+Current step is 372/1457
+Finished HMM 372 : 0.19508 minutes left
+Current step is 373/1457
+Finished HMM 373 : 0.19492 minutes left
+Current step is 374/1457
+Finished HMM 374 : 0.19468 minutes left
+Current step is 375/1457
+Finished HMM 375 : 0.19446 minutes left
+Current step is 376/1457
+Finished HMM 376 : 0.19424 minutes left
+Current step is 377/1457
+Finished HMM 377 : 0.194 minutes left
+Current step is 378/1457
+Finished HMM 378 : 0.1938 minutes left
+Current step is 379/1457
+Finished HMM 379 : 0.19359 minutes left
+Current step is 380/1457
+Finished HMM 380 : 0.19338 minutes left
+Current step is 381/1457
+Finished HMM 381 : 0.19319 minutes left
+Current step is 382/1457
+Finished HMM 382 : 0.193 minutes left
+Current step is 383/1457
+Finished HMM 383 : 0.19281 minutes left
+Current step is 384/1457
+Finished HMM 384 : 0.19262 minutes left
+Current step is 385/1457
+Finished HMM 385 : 0.19242 minutes left
+Current step is 386/1457
+Finished HMM 386 : 0.19222 minutes left
+Current step is 387/1457
+Finished HMM 387 : 0.19203 minutes left
+Current step is 388/1457
+Finished HMM 388 : 0.19181 minutes left
+Current step is 389/1457
+Finished HMM 389 : 0.19163 minutes left
+Current step is 390/1457
+Finished HMM 390 : 0.19143 minutes left
+Current step is 391/1457
+Finished HMM 391 : 0.19127 minutes left
+Current step is 392/1457
+Finished HMM 392 : 0.19108 minutes left
+Current step is 393/1457
+Finished HMM 393 : 0.19093 minutes left
+Current step is 394/1457
+Finished HMM 394 : 0.19078 minutes left
+Current step is 395/1457
+Finished HMM 395 : 0.1906 minutes left
+Current step is 396/1457
+Finished HMM 396 : 0.19039 minutes left
+Current step is 397/1457
+Finished HMM 397 : 0.19026 minutes left
+Current step is 398/1457
+Finished HMM 398 : 0.19007 minutes left
+Current step is 399/1457
+Finished HMM 399 : 0.18985 minutes left
+Current step is 400/1457
+Finished HMM 400 : 0.18967 minutes left
+Current step is 401/1457
+Finished HMM 401 : 0.18949 minutes left
+Current step is 402/1457
+Finished HMM 402 : 0.18928 minutes left
+Current step is 403/1457
+Finished HMM 403 : 0.18908 minutes left
+Current step is 404/1457
+Finished HMM 404 : 0.18886 minutes left
+Current step is 405/1457
+Finished HMM 405 : 0.18866 minutes left
+Current step is 406/1457
+Finished HMM 406 : 0.18846 minutes left
+Current step is 407/1457
+Finished HMM 407 : 0.18831 minutes left
+Current step is 408/1457
+Finished HMM 408 : 0.18811 minutes left
+Current step is 409/1457
+Finished HMM 409 : 0.18793 minutes left
+Current step is 410/1457
+Finished HMM 410 : 0.18773 minutes left
+Current step is 411/1457
+Finished HMM 411 : 0.18752 minutes left
+Current step is 412/1457
+Finished HMM 412 : 0.18734 minutes left
+Current step is 413/1457
+Finished HMM 413 : 0.18714 minutes left
+Current step is 414/1457
+Finished HMM 414 : 0.18694 minutes left
+Current step is 415/1457
+Finished HMM 415 : 0.18676 minutes left
+Current step is 416/1457
+Finished HMM 416 : 0.18657 minutes left
+Current step is 417/1457
+Finished HMM 417 : 0.1864 minutes left
+Current step is 418/1457
+Finished HMM 418 : 0.18621 minutes left
+Current step is 419/1457
+Finished HMM 419 : 0.18601 minutes left
+Current step is 420/1457
+Finished HMM 420 : 0.18583 minutes left
+Current step is 421/1457
+Finished HMM 421 : 0.18567 minutes left
+Current step is 422/1457
+Finished HMM 422 : 0.18549 minutes left
+Current step is 423/1457
+Finished HMM 423 : 0.18539 minutes left
+Current step is 424/1457
+Finished HMM 424 : 0.18518 minutes left
+Current step is 425/1457
+Finished HMM 425 : 0.18518 minutes left
+Current step is 426/1457
+Finished HMM 426 : 0.185 minutes left
+Current step is 427/1457
+Finished HMM 427 : 0.18482 minutes left
+Current step is 428/1457
+Finished HMM 428 : 0.18465 minutes left
+Current step is 429/1457
+Finished HMM 429 : 0.1845 minutes left
+Current step is 430/1457
+Finished HMM 430 : 0.18431 minutes left
+Current step is 431/1457
+Finished HMM 431 : 0.18441 minutes left
+Current step is 432/1457
+Finished HMM 432 : 0.18425 minutes left
+Current step is 433/1457
+Finished HMM 433 : 0.18412 minutes left
+Current step is 434/1457
+Finished HMM 434 : 0.18394 minutes left
+Current step is 435/1457
+Finished HMM 435 : 0.18377 minutes left
+Current step is 436/1457
+Finished HMM 436 : 0.18362 minutes left
+Current step is 437/1457
+Finished HMM 437 : 0.18346 minutes left
+Current step is 438/1457
+Finished HMM 438 : 0.18329 minutes left
+Current step is 439/1457
+Finished HMM 439 : 0.18312 minutes left
+Current step is 440/1457
+Finished HMM 440 : 0.18294 minutes left
+Current step is 441/1457
+Finished HMM 441 : 0.18279 minutes left
+Current step is 442/1457
+Finished HMM 442 : 0.18261 minutes left
+Current step is 443/1457
+Finished HMM 443 : 0.18243 minutes left
+Current step is 444/1457
+Finished HMM 444 : 0.18225 minutes left
+Current step is 445/1457
+Finished HMM 445 : 0.18208 minutes left
+Current step is 446/1457
+Finished HMM 446 : 0.18194 minutes left
+Current step is 447/1457
+Finished HMM 447 : 0.18179 minutes left
+Current step is 448/1457
+Finished HMM 448 : 0.18161 minutes left
+Current step is 449/1457
+Finished HMM 449 : 0.18143 minutes left
+Current step is 450/1457
+Finished HMM 450 : 0.18124 minutes left
+Current step is 451/1457
+Finished HMM 451 : 0.18105 minutes left
+Current step is 452/1457
+Finished HMM 452 : 0.18105 minutes left
+Current step is 453/1457
+Finished HMM 453 : 0.18087 minutes left
+Current step is 454/1457
+Finished HMM 454 : 0.18074 minutes left
+Current step is 455/1457
+Finished HMM 455 : 0.18056 minutes left
+Current step is 456/1457
+Finished HMM 456 : 0.18037 minutes left
+Current step is 457/1457
+Finished HMM 457 : 0.18019 minutes left
+Current step is 458/1457
+Finished HMM 458 : 0.18003 minutes left
+Current step is 459/1457
+Finished HMM 459 : 0.17985 minutes left
+Current step is 460/1457
+Finished HMM 460 : 0.17966 minutes left
+Current step is 461/1457
+Finished HMM 461 : 0.1795 minutes left
+Current step is 462/1457
+Finished HMM 462 : 0.17933 minutes left
+Current step is 463/1457
+Finished HMM 463 : 0.17917 minutes left
+Current step is 464/1457
+Finished HMM 464 : 0.17897 minutes left
+Current step is 465/1457
+Finished HMM 465 : 0.17877 minutes left
+Current step is 466/1457
+Finished HMM 466 : 0.1786 minutes left
+Current step is 467/1457
+Finished HMM 467 : 0.17842 minutes left
+Current step is 468/1457
+Finished HMM 468 : 0.17824 minutes left
+Current step is 469/1457
+Finished HMM 469 : 0.17809 minutes left
+Current step is 470/1457
+Finished HMM 470 : 0.17792 minutes left
+Current step is 471/1457
+Finished HMM 471 : 0.17774 minutes left
+Current step is 472/1457
+Finished HMM 472 : 0.17755 minutes left
+Current step is 473/1457
+Finished HMM 473 : 0.17738 minutes left
+Current step is 474/1457
+Finished HMM 474 : 0.1772 minutes left
+Current step is 475/1457
+Finished HMM 475 : 0.17703 minutes left
+Current step is 476/1457
+Finished HMM 476 : 0.17684 minutes left
+Current step is 477/1457
+Finished HMM 477 : 0.17668 minutes left
+Current step is 478/1457
+Finished HMM 478 : 0.17651 minutes left
+Current step is 479/1457
+Finished HMM 479 : 0.17632 minutes left
+Current step is 480/1457
+Finished HMM 480 : 0.17614 minutes left
+Current step is 481/1457
+Finished HMM 481 : 0.17615 minutes left
+Current step is 482/1457
+Finished HMM 482 : 0.17602 minutes left
+Current step is 483/1457
+Finished HMM 483 : 0.17582 minutes left
+Current step is 484/1457
+Finished HMM 484 : 0.17563 minutes left
+Current step is 485/1457
+Finished HMM 485 : 0.17545 minutes left
+Current step is 486/1457
+Finished HMM 486 : 0.17529 minutes left
+Current step is 487/1457
+Finished HMM 487 : 0.1751 minutes left
+Current step is 488/1457
+Finished HMM 488 : 0.17492 minutes left
+Current step is 489/1457
+Finished HMM 489 : 0.17473 minutes left
+Current step is 490/1457
+Finished HMM 490 : 0.17452 minutes left
+Current step is 491/1457
+Finished HMM 491 : 0.17434 minutes left
+Current step is 492/1457
+Finished HMM 492 : 0.17415 minutes left
+Current step is 493/1457
+Finished HMM 493 : 0.17399 minutes left
+Current step is 494/1457
+Finished HMM 494 : 0.17382 minutes left
+Current step is 495/1457
+Finished HMM 495 : 0.17364 minutes left
+Current step is 496/1457
+Finished HMM 496 : 0.17344 minutes left
+Current step is 497/1457
+Finished HMM 497 : 0.17327 minutes left
+Current step is 498/1457
+Finished HMM 498 : 0.17308 minutes left
+Current step is 499/1457
+Finished HMM 499 : 0.17293 minutes left
+Current step is 500/1457
+Finished HMM 500 : 0.17269 minutes left
+Current step is 501/1457
+Finished HMM 501 : 0.1725 minutes left
+Current step is 502/1457
+Finished HMM 502 : 0.17231 minutes left
+Current step is 503/1457
+Finished HMM 503 : 0.17212 minutes left
+Current step is 504/1457
+Finished HMM 504 : 0.17193 minutes left
+Current step is 505/1457
+Finished HMM 505 : 0.17178 minutes left
+Current step is 506/1457
+Finished HMM 506 : 0.17159 minutes left
+Current step is 507/1457
+Finished HMM 507 : 0.17141 minutes left
+Current step is 508/1457
+Finished HMM 508 : 0.17122 minutes left
+Current step is 509/1457
+Finished HMM 509 : 0.17105 minutes left
+Current step is 510/1457
+Finished HMM 510 : 0.17088 minutes left
+Current step is 511/1457
+Finished HMM 511 : 0.17069 minutes left
+Current step is 512/1457
+Finished HMM 512 : 0.17049 minutes left
+Current step is 513/1457
+Finished HMM 513 : 0.17032 minutes left
+Current step is 514/1457
+Finished HMM 514 : 0.17013 minutes left
+Current step is 515/1457
+Finished HMM 515 : 0.16996 minutes left
+Current step is 516/1457
+Finished HMM 516 : 0.16977 minutes left
+Current step is 517/1457
+Finished HMM 517 : 0.16959 minutes left
+Current step is 518/1457
+Finished HMM 518 : 0.16942 minutes left
+Current step is 519/1457
+Finished HMM 519 : 0.16926 minutes left
+Current step is 520/1457
+Finished HMM 520 : 0.16908 minutes left
+Current step is 521/1457
+Finished HMM 521 : 0.1689 minutes left
+Current step is 522/1457
+Finished HMM 522 : 0.16873 minutes left
+Current step is 523/1457
+Finished HMM 523 : 0.16856 minutes left
+Current step is 524/1457
+Finished HMM 524 : 0.16837 minutes left
+Current step is 525/1457
+Finished HMM 525 : 0.16818 minutes left
+Current step is 526/1457
+Finished HMM 526 : 0.168 minutes left
+Current step is 527/1457
+Finished HMM 527 : 0.16781 minutes left
+Current step is 528/1457
+Finished HMM 528 : 0.16762 minutes left
+Current step is 529/1457
+Finished HMM 529 : 0.16745 minutes left
+Current step is 530/1457
+Finished HMM 530 : 0.16728 minutes left
+Current step is 531/1457
+Finished HMM 531 : 0.1671 minutes left
+Current step is 532/1457
+Finished HMM 532 : 0.1669 minutes left
+Current step is 533/1457
+Finished HMM 533 : 0.16673 minutes left
+Current step is 534/1457
+Finished HMM 534 : 0.16655 minutes left
+Current step is 535/1457
+Finished HMM 535 : 0.16635 minutes left
+Current step is 536/1457
+Finished HMM 536 : 0.16617 minutes left
+Current step is 537/1457
+Finished HMM 537 : 0.166 minutes left
+Current step is 538/1457
+Finished HMM 538 : 0.16583 minutes left
+Current step is 539/1457
+Finished HMM 539 : 0.16565 minutes left
+Current step is 540/1457
+Finished HMM 540 : 0.16548 minutes left
+Current step is 541/1457
+Finished HMM 541 : 0.1653 minutes left
+Current step is 542/1457
+Finished HMM 542 : 0.16511 minutes left
+Current step is 543/1457
+Finished HMM 543 : 0.16492 minutes left
+Current step is 544/1457
+Finished HMM 544 : 0.16473 minutes left
+Current step is 545/1457
+Finished HMM 545 : 0.16455 minutes left
+Current step is 546/1457
+Finished HMM 546 : 0.16438 minutes left
+Current step is 547/1457
+Finished HMM 547 : 0.16419 minutes left
+Current step is 548/1457
+Finished HMM 548 : 0.16399 minutes left
+Current step is 549/1457
+Finished HMM 549 : 0.16381 minutes left
+Current step is 550/1457
+Finished HMM 550 : 0.16365 minutes left
+Current step is 551/1457
+Finished HMM 551 : 0.16348 minutes left
+Current step is 552/1457
+Finished HMM 552 : 0.16331 minutes left
+Current step is 553/1457
+Finished HMM 553 : 0.16314 minutes left
+Current step is 554/1457
+Finished HMM 554 : 0.16298 minutes left
+Current step is 555/1457
+Finished HMM 555 : 0.16284 minutes left
+Current step is 556/1457
+Finished HMM 556 : 0.16265 minutes left
+Current step is 557/1457
+Finished HMM 557 : 0.16248 minutes left
+Current step is 558/1457
+Finished HMM 558 : 0.1623 minutes left
+Current step is 559/1457
+Finished HMM 559 : 0.16209 minutes left
+Current step is 560/1457
+Finished HMM 560 : 0.16196 minutes left
+Current step is 561/1457
+Finished HMM 561 : 0.1618 minutes left
+Current step is 562/1457
+Finished HMM 562 : 0.16161 minutes left
+Current step is 563/1457
+Finished HMM 563 : 0.16142 minutes left
+Current step is 564/1457
+Finished HMM 564 : 0.16121 minutes left
+Current step is 565/1457
+Finished HMM 565 : 0.16103 minutes left
+Current step is 566/1457
+Finished HMM 566 : 0.16083 minutes left
+Current step is 567/1457
+Finished HMM 567 : 0.16062 minutes left
+Current step is 568/1457
+Finished HMM 568 : 0.16042 minutes left
+Current step is 569/1457
+Finished HMM 569 : 0.16024 minutes left
+Current step is 570/1457
+Finished HMM 570 : 0.16005 minutes left
+Current step is 571/1457
+Finished HMM 571 : 0.15983 minutes left
+Current step is 572/1457
+Finished HMM 572 : 0.15964 minutes left
+Current step is 573/1457
+Finished HMM 573 : 0.15945 minutes left
+Current step is 574/1457
+Finished HMM 574 : 0.15926 minutes left
+Current step is 575/1457
+Finished HMM 575 : 0.15907 minutes left
+Current step is 576/1457
+Finished HMM 576 : 0.15888 minutes left
+Current step is 577/1457
+Finished HMM 577 : 0.15868 minutes left
+Current step is 578/1457
+Finished HMM 578 : 0.15851 minutes left
+Current step is 579/1457
+Finished HMM 579 : 0.1583 minutes left
+Current step is 580/1457
+Finished HMM 580 : 0.15811 minutes left
+Current step is 581/1457
+Finished HMM 581 : 0.15793 minutes left
+Current step is 582/1457
+Finished HMM 582 : 0.15774 minutes left
+Current step is 583/1457
+Finished HMM 583 : 0.15754 minutes left
+Current step is 584/1457
+Finished HMM 584 : 0.15736 minutes left
+Current step is 585/1457
+Finished HMM 585 : 0.15718 minutes left
+Current step is 586/1457
+Finished HMM 586 : 0.157 minutes left
+Current step is 587/1457
+Finished HMM 587 : 0.1568 minutes left
+Current step is 588/1457
+Finished HMM 588 : 0.15662 minutes left
+Current step is 589/1457
+Finished HMM 589 : 0.15644 minutes left
+Current step is 590/1457
+Finished HMM 590 : 0.15625 minutes left
+Current step is 591/1457
+Finished HMM 591 : 0.15606 minutes left
+Current step is 592/1457
+Finished HMM 592 : 0.15587 minutes left
+Current step is 593/1457
+Finished HMM 593 : 0.15568 minutes left
+Current step is 594/1457
+Finished HMM 594 : 0.15551 minutes left
+Current step is 595/1457
+Finished HMM 595 : 0.15532 minutes left
+Current step is 596/1457
+Finished HMM 596 : 0.15514 minutes left
+Current step is 597/1457
+Finished HMM 597 : 0.15495 minutes left
+Current step is 598/1457
+Finished HMM 598 : 0.15477 minutes left
+Current step is 599/1457
+Finished HMM 599 : 0.15458 minutes left
+Current step is 600/1457
+Finished HMM 600 : 0.1544 minutes left
+Current step is 601/1457
+Finished HMM 601 : 0.15421 minutes left
+Current step is 602/1457
+Finished HMM 602 : 0.15404 minutes left
+Current step is 603/1457
+Finished HMM 603 : 0.15385 minutes left
+Current step is 604/1457
+Finished HMM 604 : 0.15367 minutes left
+Current step is 605/1457
+Finished HMM 605 : 0.15349 minutes left
+Current step is 606/1457
+Finished HMM 606 : 0.1533 minutes left
+Current step is 607/1457
+Finished HMM 607 : 0.15311 minutes left
+Current step is 608/1457
+Finished HMM 608 : 0.15294 minutes left
+Current step is 609/1457
+Finished HMM 609 : 0.15274 minutes left
+Current step is 610/1457
+Finished HMM 610 : 0.15256 minutes left
+Current step is 611/1457
+Finished HMM 611 : 0.15236 minutes left
+Current step is 612/1457
+Finished HMM 612 : 0.15218 minutes left
+Current step is 613/1457
+Finished HMM 613 : 0.15197 minutes left
+Current step is 614/1457
+Finished HMM 614 : 0.15177 minutes left
+Current step is 615/1457
+Finished HMM 615 : 0.15158 minutes left
+Current step is 616/1457
+Finished HMM 616 : 0.15139 minutes left
+Current step is 617/1457
+Finished HMM 617 : 0.1512 minutes left
+Current step is 618/1457
+Finished HMM 618 : 0.15099 minutes left
+Current step is 619/1457
+Finished HMM 619 : 0.15078 minutes left
+Current step is 620/1457
+Finished HMM 620 : 0.15059 minutes left
+Current step is 621/1457
+Finished HMM 621 : 0.15041 minutes left
+Current step is 622/1457
+Finished HMM 622 : 0.15022 minutes left
+Current step is 623/1457
+Finished HMM 623 : 0.15002 minutes left
+Current step is 624/1457
+Finished HMM 624 : 0.14983 minutes left
+Current step is 625/1457
+Finished HMM 625 : 0.14964 minutes left
+Current step is 626/1457
+Finished HMM 626 : 0.14945 minutes left
+Current step is 627/1457
+Finished HMM 627 : 0.14926 minutes left
+Current step is 628/1457
+Finished HMM 628 : 0.14907 minutes left
+Current step is 629/1457
+Finished HMM 629 : 0.14888 minutes left
+Current step is 630/1457
+Finished HMM 630 : 0.1487 minutes left
+Current step is 631/1457
+Finished HMM 631 : 0.14849 minutes left
+Current step is 632/1457
+Finished HMM 632 : 0.14833 minutes left
+Current step is 633/1457
+Finished HMM 633 : 0.14815 minutes left
+Current step is 634/1457
+Finished HMM 634 : 0.14797 minutes left
+Current step is 635/1457
+Finished HMM 635 : 0.14778 minutes left
+Current step is 636/1457
+Finished HMM 636 : 0.14761 minutes left
+Current step is 637/1457
+Finished HMM 637 : 0.14742 minutes left
+Current step is 638/1457
+Finished HMM 638 : 0.14723 minutes left
+Current step is 639/1457
+Finished HMM 639 : 0.14704 minutes left
+Current step is 640/1457
+Finished HMM 640 : 0.14686 minutes left
+Current step is 641/1457
+Finished HMM 641 : 0.14668 minutes left
+Current step is 642/1457
+Finished HMM 642 : 0.1465 minutes left
+Current step is 643/1457
+Finished HMM 643 : 0.1463 minutes left
+Current step is 644/1457
+Finished HMM 644 : 0.14611 minutes left
+Current step is 645/1457
+Finished HMM 645 : 0.14593 minutes left
+Current step is 646/1457
+Finished HMM 646 : 0.14575 minutes left
+Current step is 647/1457
+Finished HMM 647 : 0.14556 minutes left
+Current step is 648/1457
+Finished HMM 648 : 0.14537 minutes left
+Current step is 649/1457
+Finished HMM 649 : 0.14519 minutes left
+Current step is 650/1457
+Finished HMM 650 : 0.145 minutes left
+Current step is 651/1457
+Finished HMM 651 : 0.1448 minutes left
+Current step is 652/1457
+Finished HMM 652 : 0.14462 minutes left
+Current step is 653/1457
+Finished HMM 653 : 0.14443 minutes left
+Current step is 654/1457
+Finished HMM 654 : 0.14424 minutes left
+Current step is 655/1457
+Finished HMM 655 : 0.14405 minutes left
+Current step is 656/1457
+Finished HMM 656 : 0.14388 minutes left
+Current step is 657/1457
+Finished HMM 657 : 0.14369 minutes left
+Current step is 658/1457
+Finished HMM 658 : 0.14351 minutes left
+Current step is 659/1457
+Finished HMM 659 : 0.14331 minutes left
+Current step is 660/1457
+Finished HMM 660 : 0.14314 minutes left
+Current step is 661/1457
+Finished HMM 661 : 0.14298 minutes left
+Current step is 662/1457
+Finished HMM 662 : 0.14277 minutes left
+Current step is 663/1457
+Finished HMM 663 : 0.14258 minutes left
+Current step is 664/1457
+Finished HMM 664 : 0.1424 minutes left
+Current step is 665/1457
+Finished HMM 665 : 0.14222 minutes left
+Current step is 666/1457
+Finished HMM 666 : 0.14204 minutes left
+Current step is 667/1457
+Finished HMM 667 : 0.14185 minutes left
+Current step is 668/1457
+Finished HMM 668 : 0.14166 minutes left
+Current step is 669/1457
+Finished HMM 669 : 0.14147 minutes left
+Current step is 670/1457
+Finished HMM 670 : 0.14129 minutes left
+Current step is 671/1457
+Finished HMM 671 : 0.1411 minutes left
+Current step is 672/1457
+Finished HMM 672 : 0.14092 minutes left
+Current step is 673/1457
+Finished HMM 673 : 0.14073 minutes left
+Current step is 674/1457
+Finished HMM 674 : 0.14055 minutes left
+Current step is 675/1457
+Finished HMM 675 : 0.14036 minutes left
+Current step is 676/1457
+Finished HMM 676 : 0.14018 minutes left
+Current step is 677/1457
+Finished HMM 677 : 0.13999 minutes left
+Current step is 678/1457
+Finished HMM 678 : 0.13981 minutes left
+Current step is 679/1457
+Finished HMM 679 : 0.13962 minutes left
+Current step is 680/1457
+Finished HMM 680 : 0.13945 minutes left
+Current step is 681/1457
+Finished HMM 681 : 0.13926 minutes left
+Current step is 682/1457
+Finished HMM 682 : 0.13907 minutes left
+Current step is 683/1457
+Finished HMM 683 : 0.13888 minutes left
+Current step is 684/1457
+Finished HMM 684 : 0.13871 minutes left
+Current step is 685/1457
+Finished HMM 685 : 0.13852 minutes left
+Current step is 686/1457
+Finished HMM 686 : 0.13834 minutes left
+Current step is 687/1457
+Finished HMM 687 : 0.13814 minutes left
+Current step is 688/1457
+Finished HMM 688 : 0.13797 minutes left
+Current step is 689/1457
+Finished HMM 689 : 0.13779 minutes left
+Current step is 690/1457
+Finished HMM 690 : 0.13761 minutes left
+Current step is 691/1457
+Finished HMM 691 : 0.13742 minutes left
+Current step is 692/1457
+Finished HMM 692 : 0.13723 minutes left
+Current step is 693/1457
+Finished HMM 693 : 0.13705 minutes left
+Current step is 694/1457
+Finished HMM 694 : 0.13685 minutes left
+Current step is 695/1457
+Finished HMM 695 : 0.13665 minutes left
+Current step is 696/1457
+Finished HMM 696 : 0.13648 minutes left
+Current step is 697/1457
+Finished HMM 697 : 0.13629 minutes left
+Current step is 698/1457
+Finished HMM 698 : 0.1361 minutes left
+Current step is 699/1457
+Finished HMM 699 : 0.1359 minutes left
+Current step is 700/1457
+Finished HMM 700 : 0.13572 minutes left
+Current step is 701/1457
+Finished HMM 701 : 0.13562 minutes left
+Current step is 702/1457
+Finished HMM 702 : 0.13543 minutes left
+Current step is 703/1457
+Finished HMM 703 : 0.13524 minutes left
+Current step is 704/1457
+Finished HMM 704 : 0.13505 minutes left
+Current step is 705/1457
+Finished HMM 705 : 0.13487 minutes left
+Current step is 706/1457
+Finished HMM 706 : 0.13469 minutes left
+Current step is 707/1457
+Finished HMM 707 : 0.13451 minutes left
+Current step is 708/1457
+Finished HMM 708 : 0.13433 minutes left
+Current step is 709/1457
+Finished HMM 709 : 0.13423 minutes left
+Current step is 710/1457
+Finished HMM 710 : 0.13404 minutes left
+Current step is 711/1457
+Finished HMM 711 : 0.13386 minutes left
+Current step is 712/1457
+Finished HMM 712 : 0.13372 minutes left
+Current step is 713/1457
+Finished HMM 713 : 0.13352 minutes left
+Current step is 714/1457
+Finished HMM 714 : 0.13334 minutes left
+Current step is 715/1457
+Finished HMM 715 : 0.13325 minutes left
+Current step is 716/1457
+Finished HMM 716 : 0.13306 minutes left
+Current step is 717/1457
+Finished HMM 717 : 0.13289 minutes left
+Current step is 718/1457
+Finished HMM 718 : 0.1327 minutes left
+Current step is 719/1457
+Finished HMM 719 : 0.13252 minutes left
+Current step is 720/1457
+Finished HMM 720 : 0.13233 minutes left
+Current step is 721/1457
+Finished HMM 721 : 0.13216 minutes left
+Current step is 722/1457
+Finished HMM 722 : 0.13198 minutes left
+Current step is 723/1457
+Finished HMM 723 : 0.1318 minutes left
+Current step is 724/1457
+Finished HMM 724 : 0.13161 minutes left
+Current step is 725/1457
+Finished HMM 725 : 0.13201 minutes left
+Current step is 726/1457
+Finished HMM 726 : 0.13183 minutes left
+Current step is 727/1457
+Finished HMM 727 : 0.13166 minutes left
+Current step is 728/1457
+Finished HMM 728 : 0.13147 minutes left
+Current step is 729/1457
+Finished HMM 729 : 0.13129 minutes left
+Current step is 730/1457
+Finished HMM 730 : 0.13111 minutes left
+Current step is 731/1457
+Finished HMM 731 : 0.13092 minutes left
+Current step is 732/1457
+Finished HMM 732 : 0.13074 minutes left
+Current step is 733/1457
+Finished HMM 733 : 0.13056 minutes left
+Current step is 734/1457
+Finished HMM 734 : 0.13038 minutes left
+Current step is 735/1457
+Finished HMM 735 : 0.1302 minutes left
+Current step is 736/1457
+Finished HMM 736 : 0.13002 minutes left
+Current step is 737/1457
+Finished HMM 737 : 0.12984 minutes left
+Current step is 738/1457
+Finished HMM 738 : 0.12966 minutes left
+Current step is 739/1457
+Finished HMM 739 : 0.12947 minutes left
+Current step is 740/1457
+Finished HMM 740 : 0.12928 minutes left
+Current step is 741/1457
+Finished HMM 741 : 0.1291 minutes left
+Current step is 742/1457
+Finished HMM 742 : 0.12891 minutes left
+Current step is 743/1457
+Finished HMM 743 : 0.12873 minutes left
+Current step is 744/1457
+Finished HMM 744 : 0.12853 minutes left
+Current step is 745/1457
+Finished HMM 745 : 0.12835 minutes left
+Current step is 746/1457
+Finished HMM 746 : 0.12816 minutes left
+Current step is 747/1457
+Finished HMM 747 : 0.12798 minutes left
+Current step is 748/1457
+Finished HMM 748 : 0.12779 minutes left
+Current step is 749/1457
+Finished HMM 749 : 0.12761 minutes left
+Current step is 750/1457
+Finished HMM 750 : 0.12742 minutes left
+Current step is 751/1457
+Finished HMM 751 : 0.12724 minutes left
+Current step is 752/1457
+Finished HMM 752 : 0.12706 minutes left
+Current step is 753/1457
+Finished HMM 753 : 0.12688 minutes left
+Current step is 754/1457
+Finished HMM 754 : 0.1267 minutes left
+Current step is 755/1457
+Finished HMM 755 : 0.12652 minutes left
+Current step is 756/1457
+Finished HMM 756 : 0.12633 minutes left
+Current step is 757/1457
+Finished HMM 757 : 0.12615 minutes left
+Current step is 758/1457
+Finished HMM 758 : 0.12597 minutes left
+Current step is 759/1457
+Finished HMM 759 : 0.12579 minutes left
+Current step is 760/1457
+Finished HMM 760 : 0.12563 minutes left
+Current step is 761/1457
+Finished HMM 761 : 0.12548 minutes left
+Current step is 762/1457
+Finished HMM 762 : 0.12529 minutes left
+Current step is 763/1457
+Finished HMM 763 : 0.12513 minutes left
+Current step is 764/1457
+Finished HMM 764 : 0.12494 minutes left
+Current step is 765/1457
+Finished HMM 765 : 0.12475 minutes left
+Current step is 766/1457
+Finished HMM 766 : 0.12458 minutes left
+Current step is 767/1457
+Finished HMM 767 : 0.12439 minutes left
+Current step is 768/1457
+Finished HMM 768 : 0.12422 minutes left
+Current step is 769/1457
+Finished HMM 769 : 0.12404 minutes left
+Current step is 770/1457
+Finished HMM 770 : 0.12386 minutes left
+Current step is 771/1457
+Finished HMM 771 : 0.12368 minutes left
+Current step is 772/1457
+Finished HMM 772 : 0.12351 minutes left
+Current step is 773/1457
+Finished HMM 773 : 0.12331 minutes left
+Current step is 774/1457
+Finished HMM 774 : 0.12314 minutes left
+Current step is 775/1457
+Finished HMM 775 : 0.12296 minutes left
+Current step is 776/1457
+Finished HMM 776 : 0.12278 minutes left
+Current step is 777/1457
+Finished HMM 777 : 0.1226 minutes left
+Current step is 778/1457
+Finished HMM 778 : 0.12241 minutes left
+Current step is 779/1457
+Finished HMM 779 : 0.12222 minutes left
+Current step is 780/1457
+Finished HMM 780 : 0.12204 minutes left
+Current step is 781/1457
+Finished HMM 781 : 0.12185 minutes left
+Current step is 782/1457
+Finished HMM 782 : 0.12167 minutes left
+Current step is 783/1457
+Finished HMM 783 : 0.12148 minutes left
+Current step is 784/1457
+Finished HMM 784 : 0.12129 minutes left
+Current step is 785/1457
+Finished HMM 785 : 0.12111 minutes left
+Current step is 786/1457
+Finished HMM 786 : 0.12093 minutes left
+Current step is 787/1457
+Finished HMM 787 : 0.12074 minutes left
+Current step is 788/1457
+Finished HMM 788 : 0.12056 minutes left
+Current step is 789/1457
+Finished HMM 789 : 0.12038 minutes left
+Current step is 790/1457
+Finished HMM 790 : 0.1202 minutes left
+Current step is 791/1457
+Finished HMM 791 : 0.12001 minutes left
+Current step is 792/1457
+Finished HMM 792 : 0.11983 minutes left
+Current step is 793/1457
+Finished HMM 793 : 0.11964 minutes left
+Current step is 794/1457
+Finished HMM 794 : 0.11946 minutes left
+Current step is 795/1457
+Finished HMM 795 : 0.11926 minutes left
+Current step is 796/1457
+Finished HMM 796 : 0.11908 minutes left
+Current step is 797/1457
+Finished HMM 797 : 0.11889 minutes left
+Current step is 798/1457
+Finished HMM 798 : 0.1187 minutes left
+Current step is 799/1457
+Finished HMM 799 : 0.11852 minutes left
+Current step is 800/1457
+Finished HMM 800 : 0.11834 minutes left
+Current step is 801/1457
+Finished HMM 801 : 0.11815 minutes left
+Current step is 802/1457
+Finished HMM 802 : 0.11797 minutes left
+Current step is 803/1457
+Finished HMM 803 : 0.11779 minutes left
+Current step is 804/1457
+Finished HMM 804 : 0.11761 minutes left
+Current step is 805/1457
+Finished HMM 805 : 0.11743 minutes left
+Current step is 806/1457
+Finished HMM 806 : 0.11725 minutes left
+Current step is 807/1457
+Finished HMM 807 : 0.11707 minutes left
+Current step is 808/1457
+Finished HMM 808 : 0.11689 minutes left
+Current step is 809/1457
+Finished HMM 809 : 0.11671 minutes left
+Current step is 810/1457
+Finished HMM 810 : 0.11653 minutes left
+Current step is 811/1457
+Finished HMM 811 : 0.11635 minutes left
+Current step is 812/1457
+Finished HMM 812 : 0.11616 minutes left
+Current step is 813/1457
+Finished HMM 813 : 0.11598 minutes left
+Current step is 814/1457
+Finished HMM 814 : 0.11579 minutes left
+Current step is 815/1457
+Finished HMM 815 : 0.1156 minutes left
+Current step is 816/1457
+Finished HMM 816 : 0.11542 minutes left
+Current step is 817/1457
+Finished HMM 817 : 0.11524 minutes left
+Current step is 818/1457
+Finished HMM 818 : 0.11506 minutes left
+Current step is 819/1457
+Finished HMM 819 : 0.11488 minutes left
+Current step is 820/1457
+Finished HMM 820 : 0.1147 minutes left
+Current step is 821/1457
+Finished HMM 821 : 0.11453 minutes left
+Current step is 822/1457
+Finished HMM 822 : 0.11434 minutes left
+Current step is 823/1457
+Finished HMM 823 : 0.11415 minutes left
+Current step is 824/1457
+Finished HMM 824 : 0.11397 minutes left
+Current step is 825/1457
+Finished HMM 825 : 0.11379 minutes left
+Current step is 826/1457
+Finished HMM 826 : 0.11361 minutes left
+Current step is 827/1457
+Finished HMM 827 : 0.11343 minutes left
+Current step is 828/1457
+Finished HMM 828 : 0.11325 minutes left
+Current step is 829/1457
+Finished HMM 829 : 0.11306 minutes left
+Current step is 830/1457
+Finished HMM 830 : 0.11288 minutes left
+Current step is 831/1457
+Finished HMM 831 : 0.1127 minutes left
+Current step is 832/1457
+Finished HMM 832 : 0.11252 minutes left
+Current step is 833/1457
+Finished HMM 833 : 0.11233 minutes left
+Current step is 834/1457
+Finished HMM 834 : 0.11214 minutes left
+Current step is 835/1457
+Finished HMM 835 : 0.11195 minutes left
+Current step is 836/1457
+Finished HMM 836 : 0.11177 minutes left
+Current step is 837/1457
+Finished HMM 837 : 0.11159 minutes left
+Current step is 838/1457
+Finished HMM 838 : 0.11141 minutes left
+Current step is 839/1457
+Finished HMM 839 : 0.11123 minutes left
+Current step is 840/1457
+Finished HMM 840 : 0.11106 minutes left
+Current step is 841/1457
+Finished HMM 841 : 0.11087 minutes left
+Current step is 842/1457
+Finished HMM 842 : 0.11069 minutes left
+Current step is 843/1457
+Finished HMM 843 : 0.1105 minutes left
+Current step is 844/1457
+Finished HMM 844 : 0.11032 minutes left
+Current step is 845/1457
+Finished HMM 845 : 0.11014 minutes left
+Current step is 846/1457
+Finished HMM 846 : 0.10996 minutes left
+Current step is 847/1457
+Finished HMM 847 : 0.10978 minutes left
+Current step is 848/1457
+Finished HMM 848 : 0.10961 minutes left
+Current step is 849/1457
+Finished HMM 849 : 0.10942 minutes left
+Current step is 850/1457
+Finished HMM 850 : 0.10924 minutes left
+Current step is 851/1457
+Finished HMM 851 : 0.10906 minutes left
+Current step is 852/1457
+Finished HMM 852 : 0.10888 minutes left
+Current step is 853/1457
+Finished HMM 853 : 0.1087 minutes left
+Current step is 854/1457
+Finished HMM 854 : 0.10852 minutes left
+Current step is 855/1457
+Finished HMM 855 : 0.10835 minutes left
+Current step is 856/1457
+Finished HMM 856 : 0.10817 minutes left
+Current step is 857/1457
+Finished HMM 857 : 0.10798 minutes left
+Current step is 858/1457
+Finished HMM 858 : 0.1078 minutes left
+Current step is 859/1457
+Finished HMM 859 : 0.10762 minutes left
+Current step is 860/1457
+Finished HMM 860 : 0.10744 minutes left
+Current step is 861/1457
+Finished HMM 861 : 0.10726 minutes left
+Current step is 862/1457
+Finished HMM 862 : 0.10707 minutes left
+Current step is 863/1457
+Finished HMM 863 : 0.10688 minutes left
+Current step is 864/1457
+Finished HMM 864 : 0.10669 minutes left
+Current step is 865/1457
+Finished HMM 865 : 0.10652 minutes left
+Current step is 866/1457
+Finished HMM 866 : 0.10633 minutes left
+Current step is 867/1457
+Finished HMM 867 : 0.10615 minutes left
+Current step is 868/1457
+Finished HMM 868 : 0.10597 minutes left
+Current step is 869/1457
+Finished HMM 869 : 0.10579 minutes left
+Current step is 870/1457
+Finished HMM 870 : 0.1056 minutes left
+Current step is 871/1457
+Finished HMM 871 : 0.10541 minutes left
+Current step is 872/1457
+Finished HMM 872 : 0.10523 minutes left
+Current step is 873/1457
+Finished HMM 873 : 0.10504 minutes left
+Current step is 874/1457
+Finished HMM 874 : 0.10486 minutes left
+Current step is 875/1457
+Finished HMM 875 : 0.10467 minutes left
+Current step is 876/1457
+Finished HMM 876 : 0.10449 minutes left
+Current step is 877/1457
+Finished HMM 877 : 0.10431 minutes left
+Current step is 878/1457
+Finished HMM 878 : 0.10413 minutes left
+Current step is 879/1457
+Finished HMM 879 : 0.10395 minutes left
+Current step is 880/1457
+Finished HMM 880 : 0.10377 minutes left
+Current step is 881/1457
+Finished HMM 881 : 0.10359 minutes left
+Current step is 882/1457
+Finished HMM 882 : 0.10341 minutes left
+Current step is 883/1457
+Finished HMM 883 : 0.10322 minutes left
+Current step is 884/1457
+Finished HMM 884 : 0.10304 minutes left
+Current step is 885/1457
+Finished HMM 885 : 0.10287 minutes left
+Current step is 886/1457
+Finished HMM 886 : 0.10269 minutes left
+Current step is 887/1457
+Finished HMM 887 : 0.10251 minutes left
+Current step is 888/1457
+Finished HMM 888 : 0.10233 minutes left
+Current step is 889/1457
+Finished HMM 889 : 0.10215 minutes left
+Current step is 890/1457
+Finished HMM 890 : 0.10197 minutes left
+Current step is 891/1457
+Finished HMM 891 : 0.10179 minutes left
+Current step is 892/1457
+Finished HMM 892 : 0.10161 minutes left
+Current step is 893/1457
+Finished HMM 893 : 0.10143 minutes left
+Current step is 894/1457
+Finished HMM 894 : 0.10125 minutes left
+Current step is 895/1457
+Finished HMM 895 : 0.10107 minutes left
+Current step is 896/1457
+Finished HMM 896 : 0.10089 minutes left
+Current step is 897/1457
+Finished HMM 897 : 0.10071 minutes left
+Current step is 898/1457
+Finished HMM 898 : 0.10053 minutes left
+Current step is 899/1457
+Finished HMM 899 : 0.10035 minutes left
+Current step is 900/1457
+Finished HMM 900 : 0.10016 minutes left
+Current step is 901/1457
+Finished HMM 901 : 0.099975 minutes left
+Current step is 902/1457
+Finished HMM 902 : 0.099787 minutes left
+Current step is 903/1457
+Finished HMM 903 : 0.099604 minutes left
+Current step is 904/1457
+Finished HMM 904 : 0.09942 minutes left
+Current step is 905/1457
+Finished HMM 905 : 0.099234 minutes left
+Current step is 906/1457
+Finished HMM 906 : 0.099056 minutes left
+Current step is 907/1457
+Finished HMM 907 : 0.098878 minutes left
+Current step is 908/1457
+Finished HMM 908 : 0.098703 minutes left
+Current step is 909/1457
+Finished HMM 909 : 0.098521 minutes left
+Current step is 910/1457
+Finished HMM 910 : 0.098334 minutes left
+Current step is 911/1457
+Finished HMM 911 : 0.098138 minutes left
+Current step is 912/1457
+Finished HMM 912 : 0.097953 minutes left
+Current step is 913/1457
+Finished HMM 913 : 0.097779 minutes left
+Current step is 914/1457
+Finished HMM 914 : 0.097599 minutes left
+Current step is 915/1457
+Finished HMM 915 : 0.097419 minutes left
+Current step is 916/1457
+Finished HMM 916 : 0.09724 minutes left
+Current step is 917/1457
+Finished HMM 917 : 0.097059 minutes left
+Current step is 918/1457
+Finished HMM 918 : 0.09688 minutes left
+Current step is 919/1457
+Finished HMM 919 : 0.096696 minutes left
+Current step is 920/1457
+Finished HMM 920 : 0.096516 minutes left
+Current step is 921/1457
+Finished HMM 921 : 0.096335 minutes left
+Current step is 922/1457
+Finished HMM 922 : 0.096154 minutes left
+Current step is 923/1457
+Finished HMM 923 : 0.09598 minutes left
+Current step is 924/1457
+Finished HMM 924 : 0.095803 minutes left
+Current step is 925/1457
+Finished HMM 925 : 0.095621 minutes left
+Current step is 926/1457
+Finished HMM 926 : 0.095438 minutes left
+Current step is 927/1457
+Finished HMM 927 : 0.095258 minutes left
+Current step is 928/1457
+Finished HMM 928 : 0.095075 minutes left
+Current step is 929/1457
+Finished HMM 929 : 0.094892 minutes left
+Current step is 930/1457
+Finished HMM 930 : 0.09471 minutes left
+Current step is 931/1457
+Finished HMM 931 : 0.094532 minutes left
+Current step is 932/1457
+Finished HMM 932 : 0.094356 minutes left
+Current step is 933/1457
+Finished HMM 933 : 0.094177 minutes left
+Current step is 934/1457
+Finished HMM 934 : 0.093998 minutes left
+Current step is 935/1457
+Finished HMM 935 : 0.093816 minutes left
+Current step is 936/1457
+Finished HMM 936 : 0.093637 minutes left
+Current step is 937/1457
+Finished HMM 937 : 0.093456 minutes left
+Current step is 938/1457
+Finished HMM 938 : 0.093273 minutes left
+Current step is 939/1457
+Finished HMM 939 : 0.093096 minutes left
+Current step is 940/1457
+Finished HMM 940 : 0.092921 minutes left
+Current step is 941/1457
+Finished HMM 941 : 0.092749 minutes left
+Current step is 942/1457
+Finished HMM 942 : 0.092567 minutes left
+Current step is 943/1457
+Finished HMM 943 : 0.092382 minutes left
+Current step is 944/1457
+Finished HMM 944 : 0.092202 minutes left
+Current step is 945/1457
+Finished HMM 945 : 0.092026 minutes left
+Current step is 946/1457
+Finished HMM 946 : 0.091849 minutes left
+Current step is 947/1457
+Finished HMM 947 : 0.091671 minutes left
+Current step is 948/1457
+Finished HMM 948 : 0.091495 minutes left
+Current step is 949/1457
+Finished HMM 949 : 0.09131 minutes left
+Current step is 950/1457
+Finished HMM 950 : 0.091125 minutes left
+Current step is 951/1457
+Finished HMM 951 : 0.090947 minutes left
+Current step is 952/1457
+Finished HMM 952 : 0.090766 minutes left
+Current step is 953/1457
+Finished HMM 953 : 0.090583 minutes left
+Current step is 954/1457
+Finished HMM 954 : 0.0904 minutes left
+Current step is 955/1457
+Finished HMM 955 : 0.090209 minutes left
+Current step is 956/1457
+Finished HMM 956 : 0.090026 minutes left
+Current step is 957/1457
+Finished HMM 957 : 0.089843 minutes left
+Current step is 958/1457
+Finished HMM 958 : 0.089668 minutes left
+Current step is 959/1457
+Finished HMM 959 : 0.089486 minutes left
+Current step is 960/1457
+Finished HMM 960 : 0.089304 minutes left
+Current step is 961/1457
+Finished HMM 961 : 0.08912 minutes left
+Current step is 962/1457
+Finished HMM 962 : 0.088943 minutes left
+Current step is 963/1457
+Finished HMM 963 : 0.088768 minutes left
+Current step is 964/1457
+Finished HMM 964 : 0.088585 minutes left
+Current step is 965/1457
+Finished HMM 965 : 0.088406 minutes left
+Current step is 966/1457
+Finished HMM 966 : 0.088223 minutes left
+Current step is 967/1457
+Finished HMM 967 : 0.088042 minutes left
+Current step is 968/1457
+Finished HMM 968 : 0.087859 minutes left
+Current step is 969/1457
+Finished HMM 969 : 0.087682 minutes left
+Current step is 970/1457
+Finished HMM 970 : 0.087502 minutes left
+Current step is 971/1457
+Finished HMM 971 : 0.087315 minutes left
+Current step is 972/1457
+Finished HMM 972 : 0.087133 minutes left
+Current step is 973/1457
+Finished HMM 973 : 0.086948 minutes left
+Current step is 974/1457
+Finished HMM 974 : 0.086769 minutes left
+Current step is 975/1457
+Finished HMM 975 : 0.086591 minutes left
+Current step is 976/1457
+Finished HMM 976 : 0.086417 minutes left
+Current step is 977/1457
+Finished HMM 977 : 0.086242 minutes left
+Current step is 978/1457
+Finished HMM 978 : 0.086062 minutes left
+Current step is 979/1457
+Finished HMM 979 : 0.085885 minutes left
+Current step is 980/1457
+Finished HMM 980 : 0.085706 minutes left
+Current step is 981/1457
+Finished HMM 981 : 0.085528 minutes left
+Current step is 982/1457
+Finished HMM 982 : 0.085345 minutes left
+Current step is 983/1457
+Finished HMM 983 : 0.085157 minutes left
+Current step is 984/1457
+Finished HMM 984 : 0.084979 minutes left
+Current step is 985/1457
+Finished HMM 985 : 0.084795 minutes left
+Current step is 986/1457
+Finished HMM 986 : 0.084615 minutes left
+Current step is 987/1457
+Finished HMM 987 : 0.084434 minutes left
+Current step is 988/1457
+Finished HMM 988 : 0.084253 minutes left
+Current step is 989/1457
+Finished HMM 989 : 0.08407 minutes left
+Current step is 990/1457
+Finished HMM 990 : 0.083893 minutes left
+Current step is 991/1457
+Finished HMM 991 : 0.083711 minutes left
+Current step is 992/1457
+Finished HMM 992 : 0.083532 minutes left
+Current step is 993/1457
+Finished HMM 993 : 0.083357 minutes left
+Current step is 994/1457
+Finished HMM 994 : 0.083174 minutes left
+Current step is 995/1457
+Finished HMM 995 : 0.082993 minutes left
+Current step is 996/1457
+Finished HMM 996 : 0.082814 minutes left
+Current step is 997/1457
+Finished HMM 997 : 0.082634 minutes left
+Current step is 998/1457
+Finished HMM 998 : 0.082455 minutes left
+Current step is 999/1457
+Finished HMM 999 : 0.082272 minutes left
+Current step is 1000/1457
+Finished HMM 1000 : 0.082093 minutes left
+Current step is 1001/1457
+Finished HMM 1001 : 0.08192 minutes left
+Current step is 1002/1457
+Finished HMM 1002 : 0.081739 minutes left
+Current step is 1003/1457
+Finished HMM 1003 : 0.081559 minutes left
+Current step is 1004/1457
+Finished HMM 1004 : 0.081386 minutes left
+Current step is 1005/1457
+Finished HMM 1005 : 0.081208 minutes left
+Current step is 1006/1457
+Finished HMM 1006 : 0.08103 minutes left
+Current step is 1007/1457
+Finished HMM 1007 : 0.080856 minutes left
+Current step is 1008/1457
+Finished HMM 1008 : 0.080683 minutes left
+Current step is 1009/1457
+Finished HMM 1009 : 0.080507 minutes left
+Current step is 1010/1457
+Finished HMM 1010 : 0.080336 minutes left
+Current step is 1011/1457
+Finished HMM 1011 : 0.080155 minutes left
+Current step is 1012/1457
+Finished HMM 1012 : 0.079978 minutes left
+Current step is 1013/1457
+Finished HMM 1013 : 0.079802 minutes left
+Current step is 1014/1457
+Finished HMM 1014 : 0.079628 minutes left
+Current step is 1015/1457
+Finished HMM 1015 : 0.079445 minutes left
+Current step is 1016/1457
+Finished HMM 1016 : 0.079269 minutes left
+Current step is 1017/1457
+Finished HMM 1017 : 0.079094 minutes left
+Current step is 1018/1457
+Finished HMM 1018 : 0.078918 minutes left
+Current step is 1019/1457
+Finished HMM 1019 : 0.078735 minutes left
+Current step is 1020/1457
+Finished HMM 1020 : 0.078558 minutes left
+Current step is 1021/1457
+Finished HMM 1021 : 0.078376 minutes left
+Current step is 1022/1457
+Finished HMM 1022 : 0.078193 minutes left
+Current step is 1023/1457
+Finished HMM 1023 : 0.078008 minutes left
+Current step is 1024/1457
+Finished HMM 1024 : 0.077826 minutes left
+Current step is 1025/1457
+Finished HMM 1025 : 0.07765 minutes left
+Current step is 1026/1457
+Finished HMM 1026 : 0.077466 minutes left
+Current step is 1027/1457
+Finished HMM 1027 : 0.077282 minutes left
+Current step is 1028/1457
+Finished HMM 1028 : 0.0771 minutes left
+Current step is 1029/1457
+Finished HMM 1029 : 0.076922 minutes left
+Current step is 1030/1457
+Finished HMM 1030 : 0.076743 minutes left
+Current step is 1031/1457
+Finished HMM 1031 : 0.076564 minutes left
+Current step is 1032/1457
+Finished HMM 1032 : 0.076385 minutes left
+Current step is 1033/1457
+Finished HMM 1033 : 0.076209 minutes left
+Current step is 1034/1457
+Finished HMM 1034 : 0.076029 minutes left
+Current step is 1035/1457
+Finished HMM 1035 : 0.075851 minutes left
+Current step is 1036/1457
+Finished HMM 1036 : 0.07567 minutes left
+Current step is 1037/1457
+Finished HMM 1037 : 0.075486 minutes left
+Current step is 1038/1457
+Finished HMM 1038 : 0.075304 minutes left
+Current step is 1039/1457
+Finished HMM 1039 : 0.075123 minutes left
+Current step is 1040/1457
+Finished HMM 1040 : 0.074946 minutes left
+Current step is 1041/1457
+Finished HMM 1041 : 0.074765 minutes left
+Current step is 1042/1457
+Finished HMM 1042 : 0.074585 minutes left
+Current step is 1043/1457
+Finished HMM 1043 : 0.074401 minutes left
+Current step is 1044/1457
+Finished HMM 1044 : 0.074223 minutes left
+Current step is 1045/1457
+Finished HMM 1045 : 0.074043 minutes left
+Current step is 1046/1457
+Finished HMM 1046 : 0.07386 minutes left
+Current step is 1047/1457
+Finished HMM 1047 : 0.073678 minutes left
+Current step is 1048/1457
+Finished HMM 1048 : 0.073503 minutes left
+Current step is 1049/1457
+Finished HMM 1049 : 0.073324 minutes left
+Current step is 1050/1457
+Finished HMM 1050 : 0.073138 minutes left
+Current step is 1051/1457
+Finished HMM 1051 : 0.072961 minutes left
+Current step is 1052/1457
+Finished HMM 1052 : 0.072782 minutes left
+Current step is 1053/1457
+Finished HMM 1053 : 0.072598 minutes left
+Current step is 1054/1457
+Finished HMM 1054 : 0.072426 minutes left
+Current step is 1055/1457
+Finished HMM 1055 : 0.072244 minutes left
+Current step is 1056/1457
+Finished HMM 1056 : 0.072067 minutes left
+Current step is 1057/1457
+Finished HMM 1057 : 0.071885 minutes left
+Current step is 1058/1457
+Finished HMM 1058 : 0.071703 minutes left
+Current step is 1059/1457
+Finished HMM 1059 : 0.071524 minutes left
+Current step is 1060/1457
+Finished HMM 1060 : 0.071344 minutes left
+Current step is 1061/1457
+Finished HMM 1061 : 0.071165 minutes left
+Current step is 1062/1457
+Finished HMM 1062 : 0.070985 minutes left
+Current step is 1063/1457
+Finished HMM 1063 : 0.070802 minutes left
+Current step is 1064/1457
+Finished HMM 1064 : 0.07063 minutes left
+Current step is 1065/1457
+Finished HMM 1065 : 0.070454 minutes left
+Current step is 1066/1457
+Finished HMM 1066 : 0.070275 minutes left
+Current step is 1067/1457
+Finished HMM 1067 : 0.070094 minutes left
+Current step is 1068/1457
+Finished HMM 1068 : 0.069915 minutes left
+Current step is 1069/1457
+Finished HMM 1069 : 0.069732 minutes left
+Current step is 1070/1457
+Finished HMM 1070 : 0.069552 minutes left
+Current step is 1071/1457
+Finished HMM 1071 : 0.069368 minutes left
+Current step is 1072/1457
+Finished HMM 1072 : 0.069189 minutes left
+Current step is 1073/1457
+Finished HMM 1073 : 0.069007 minutes left
+Current step is 1074/1457
+Finished HMM 1074 : 0.068825 minutes left
+Current step is 1075/1457
+Finished HMM 1075 : 0.068645 minutes left
+Current step is 1076/1457
+Finished HMM 1076 : 0.068463 minutes left
+Current step is 1077/1457
+Finished HMM 1077 : 0.068284 minutes left
+Current step is 1078/1457
+Finished HMM 1078 : 0.068102 minutes left
+Current step is 1079/1457
+Finished HMM 1079 : 0.067922 minutes left
+Current step is 1080/1457
+Finished HMM 1080 : 0.067748 minutes left
+Current step is 1081/1457
+Finished HMM 1081 : 0.067565 minutes left
+Current step is 1082/1457
+Finished HMM 1082 : 0.067386 minutes left
+Current step is 1083/1457
+Finished HMM 1083 : 0.0672 minutes left
+Current step is 1084/1457
+Finished HMM 1084 : 0.067021 minutes left
+Current step is 1085/1457
+Finished HMM 1085 : 0.066843 minutes left
+Current step is 1086/1457
+Finished HMM 1086 : 0.066658 minutes left
+Current step is 1087/1457
+Finished HMM 1087 : 0.066477 minutes left
+Current step is 1088/1457
+Finished HMM 1088 : 0.066298 minutes left
+Current step is 1089/1457
+Finished HMM 1089 : 0.06612 minutes left
+Current step is 1090/1457
+Finished HMM 1090 : 0.065937 minutes left
+Current step is 1091/1457
+Finished HMM 1091 : 0.065757 minutes left
+Current step is 1092/1457
+Finished HMM 1092 : 0.065576 minutes left
+Current step is 1093/1457
+Finished HMM 1093 : 0.065395 minutes left
+Current step is 1094/1457
+Finished HMM 1094 : 0.065219 minutes left
+Current step is 1095/1457
+Finished HMM 1095 : 0.065044 minutes left
+Current step is 1096/1457
+Finished HMM 1096 : 0.064868 minutes left
+Current step is 1097/1457
+Finished HMM 1097 : 0.06469 minutes left
+Current step is 1098/1457
+Finished HMM 1098 : 0.06451 minutes left
+Current step is 1099/1457
+Finished HMM 1099 : 0.064331 minutes left
+Current step is 1100/1457
+Finished HMM 1100 : 0.064151 minutes left
+Current step is 1101/1457
+Finished HMM 1101 : 0.06397 minutes left
+Current step is 1102/1457
+Finished HMM 1102 : 0.063792 minutes left
+Current step is 1103/1457
+Finished HMM 1103 : 0.063613 minutes left
+Current step is 1104/1457
+Finished HMM 1104 : 0.063435 minutes left
+Current step is 1105/1457
+Finished HMM 1105 : 0.063253 minutes left
+Current step is 1106/1457
+Finished HMM 1106 : 0.063071 minutes left
+Current step is 1107/1457
+Finished HMM 1107 : 0.062888 minutes left
+Current step is 1108/1457
+Finished HMM 1108 : 0.06271 minutes left
+Current step is 1109/1457
+Finished HMM 1109 : 0.062534 minutes left
+Current step is 1110/1457
+Finished HMM 1110 : 0.062355 minutes left
+Current step is 1111/1457
+Finished HMM 1111 : 0.062175 minutes left
+Current step is 1112/1457
+Finished HMM 1112 : 0.061998 minutes left
+Current step is 1113/1457
+Finished HMM 1113 : 0.061818 minutes left
+Current step is 1114/1457
+Finished HMM 1114 : 0.061641 minutes left
+Current step is 1115/1457
+Finished HMM 1115 : 0.061462 minutes left
+Current step is 1116/1457
+Finished HMM 1116 : 0.061286 minutes left
+Current step is 1117/1457
+Finished HMM 1117 : 0.061112 minutes left
+Current step is 1118/1457
+Finished HMM 1118 : 0.060931 minutes left
+Current step is 1119/1457
+Finished HMM 1119 : 0.060752 minutes left
+Current step is 1120/1457
+Finished HMM 1120 : 0.06057 minutes left
+Current step is 1121/1457
+Finished HMM 1121 : 0.060388 minutes left
+Current step is 1122/1457
+Finished HMM 1122 : 0.060206 minutes left
+Current step is 1123/1457
+Finished HMM 1123 : 0.060029 minutes left
+Current step is 1124/1457
+Finished HMM 1124 : 0.059849 minutes left
+Current step is 1125/1457
+Finished HMM 1125 : 0.059671 minutes left
+Current step is 1126/1457
+Finished HMM 1126 : 0.059489 minutes left
+Current step is 1127/1457
+Finished HMM 1127 : 0.059309 minutes left
+Current step is 1128/1457
+Finished HMM 1128 : 0.059129 minutes left
+Current step is 1129/1457
+Finished HMM 1129 : 0.058949 minutes left
+Current step is 1130/1457
+Finished HMM 1130 : 0.05877 minutes left
+Current step is 1131/1457
+Finished HMM 1131 : 0.05859 minutes left
+Current step is 1132/1457
+Finished HMM 1132 : 0.058411 minutes left
+Current step is 1133/1457
+Finished HMM 1133 : 0.05823 minutes left
+Current step is 1134/1457
+Finished HMM 1134 : 0.05805 minutes left
+Current step is 1135/1457
+Finished HMM 1135 : 0.05787 minutes left
+Current step is 1136/1457
+Finished HMM 1136 : 0.057691 minutes left
+Current step is 1137/1457
+Finished HMM 1137 : 0.057512 minutes left
+Current step is 1138/1457
+Finished HMM 1138 : 0.057331 minutes left
+Current step is 1139/1457
+Finished HMM 1139 : 0.05715 minutes left
+Current step is 1140/1457
+Finished HMM 1140 : 0.05697 minutes left
+Current step is 1141/1457
+Finished HMM 1141 : 0.05679 minutes left
+Current step is 1142/1457
+Finished HMM 1142 : 0.05661 minutes left
+Current step is 1143/1457
+Finished HMM 1143 : 0.05643 minutes left
+Current step is 1144/1457
+Finished HMM 1144 : 0.056253 minutes left
+Current step is 1145/1457
+Finished HMM 1145 : 0.056075 minutes left
+Current step is 1146/1457
+Finished HMM 1146 : 0.055896 minutes left
+Current step is 1147/1457
+Finished HMM 1147 : 0.055714 minutes left
+Current step is 1148/1457
+Finished HMM 1148 : 0.055537 minutes left
+Current step is 1149/1457
+Finished HMM 1149 : 0.055358 minutes left
+Current step is 1150/1457
+Finished HMM 1150 : 0.055179 minutes left
+Current step is 1151/1457
+Finished HMM 1151 : 0.055 minutes left
+Current step is 1152/1457
+Finished HMM 1152 : 0.054822 minutes left
+Current step is 1153/1457
+Finished HMM 1153 : 0.054644 minutes left
+Current step is 1154/1457
+Finished HMM 1154 : 0.054467 minutes left
+Current step is 1155/1457
+Finished HMM 1155 : 0.054286 minutes left
+Current step is 1156/1457
+Finished HMM 1156 : 0.054109 minutes left
+Current step is 1157/1457
+Finished HMM 1157 : 0.053932 minutes left
+Current step is 1158/1457
+Finished HMM 1158 : 0.053755 minutes left
+Current step is 1159/1457
+Finished HMM 1159 : 0.053576 minutes left
+Current step is 1160/1457
+Finished HMM 1160 : 0.053399 minutes left
+Current step is 1161/1457
+Finished HMM 1161 : 0.053221 minutes left
+Current step is 1162/1457
+Finished HMM 1162 : 0.05304 minutes left
+Current step is 1163/1457
+Finished HMM 1163 : 0.052859 minutes left
+Current step is 1164/1457
+Finished HMM 1164 : 0.052679 minutes left
+Current step is 1165/1457
+Finished HMM 1165 : 0.052499 minutes left
+Current step is 1166/1457
+Finished HMM 1166 : 0.052323 minutes left
+Current step is 1167/1457
+Finished HMM 1167 : 0.052143 minutes left
+Current step is 1168/1457
+Finished HMM 1168 : 0.051963 minutes left
+Current step is 1169/1457
+Finished HMM 1169 : 0.051784 minutes left
+Current step is 1170/1457
+Finished HMM 1170 : 0.051606 minutes left
+Current step is 1171/1457
+Finished HMM 1171 : 0.051428 minutes left
+Current step is 1172/1457
+Finished HMM 1172 : 0.051246 minutes left
+Current step is 1173/1457
+Finished HMM 1173 : 0.051068 minutes left
+Current step is 1174/1457
+Finished HMM 1174 : 0.050889 minutes left
+Current step is 1175/1457
+Finished HMM 1175 : 0.050709 minutes left
+Current step is 1176/1457
+Finished HMM 1176 : 0.050533 minutes left
+Current step is 1177/1457
+Finished HMM 1177 : 0.050353 minutes left
+Current step is 1178/1457
+Finished HMM 1178 : 0.050174 minutes left
+Current step is 1179/1457
+Finished HMM 1179 : 0.049993 minutes left
+Current step is 1180/1457
+Finished HMM 1180 : 0.049813 minutes left
+Current step is 1181/1457
+Finished HMM 1181 : 0.049634 minutes left
+Current step is 1182/1457
+Finished HMM 1182 : 0.049455 minutes left
+Current step is 1183/1457
+Finished HMM 1183 : 0.049275 minutes left
+Current step is 1184/1457
+Finished HMM 1184 : 0.049095 minutes left
+Current step is 1185/1457
+Finished HMM 1185 : 0.048917 minutes left
+Current step is 1186/1457
+Finished HMM 1186 : 0.04874 minutes left
+Current step is 1187/1457
+Finished HMM 1187 : 0.048561 minutes left
+Current step is 1188/1457
+Finished HMM 1188 : 0.048384 minutes left
+Current step is 1189/1457
+Finished HMM 1189 : 0.048204 minutes left
+Current step is 1190/1457
+Finished HMM 1190 : 0.048024 minutes left
+Current step is 1191/1457
+Finished HMM 1191 : 0.047844 minutes left
+Current step is 1192/1457
+Finished HMM 1192 : 0.047667 minutes left
+Current step is 1193/1457
+Finished HMM 1193 : 0.047486 minutes left
+Current step is 1194/1457
+Finished HMM 1194 : 0.047307 minutes left
+Current step is 1195/1457
+Finished HMM 1195 : 0.047128 minutes left
+Current step is 1196/1457
+Finished HMM 1196 : 0.046949 minutes left
+Current step is 1197/1457
+Finished HMM 1197 : 0.046772 minutes left
+Current step is 1198/1457
+Finished HMM 1198 : 0.046592 minutes left
+Current step is 1199/1457
+Finished HMM 1199 : 0.046413 minutes left
+Current step is 1200/1457
+Finished HMM 1200 : 0.046233 minutes left
+Current step is 1201/1457
+Finished HMM 1201 : 0.046053 minutes left
+Current step is 1202/1457
+Finished HMM 1202 : 0.045877 minutes left
+Current step is 1203/1457
+Finished HMM 1203 : 0.045694 minutes left
+Current step is 1204/1457
+Finished HMM 1204 : 0.045516 minutes left
+Current step is 1205/1457
+Finished HMM 1205 : 0.045339 minutes left
+Current step is 1206/1457
+Finished HMM 1206 : 0.04516 minutes left
+Current step is 1207/1457
+Finished HMM 1207 : 0.044981 minutes left
+Current step is 1208/1457
+Finished HMM 1208 : 0.044803 minutes left
+Current step is 1209/1457
+Finished HMM 1209 : 0.044627 minutes left
+Current step is 1210/1457
+Finished HMM 1210 : 0.044448 minutes left
+Current step is 1211/1457
+Finished HMM 1211 : 0.04427 minutes left
+Current step is 1212/1457
+Finished HMM 1212 : 0.044091 minutes left
+Current step is 1213/1457
+Finished HMM 1213 : 0.043911 minutes left
+Current step is 1214/1457
+Finished HMM 1214 : 0.04373 minutes left
+Current step is 1215/1457
+Finished HMM 1215 : 0.043551 minutes left
+Current step is 1216/1457
+Finished HMM 1216 : 0.043376 minutes left
+Current step is 1217/1457
+Finished HMM 1217 : 0.043197 minutes left
+Current step is 1218/1457
+Finished HMM 1218 : 0.04302 minutes left
+Current step is 1219/1457
+Finished HMM 1219 : 0.042837 minutes left
+Current step is 1220/1457
+Finished HMM 1220 : 0.042662 minutes left
+Current step is 1221/1457
+Finished HMM 1221 : 0.042485 minutes left
+Current step is 1222/1457
+Finished HMM 1222 : 0.042303 minutes left
+Current step is 1223/1457
+Finished HMM 1223 : 0.042124 minutes left
+Current step is 1224/1457
+Finished HMM 1224 : 0.041945 minutes left
+Current step is 1225/1457
+Finished HMM 1225 : 0.041767 minutes left
+Current step is 1226/1457
+Finished HMM 1226 : 0.041588 minutes left
+Current step is 1227/1457
+Finished HMM 1227 : 0.041406 minutes left
+Current step is 1228/1457
+Finished HMM 1228 : 0.041228 minutes left
+Current step is 1229/1457
+Finished HMM 1229 : 0.041049 minutes left
+Current step is 1230/1457
+Finished HMM 1230 : 0.040869 minutes left
+Current step is 1231/1457
+Finished HMM 1231 : 0.040691 minutes left
+Current step is 1232/1457
+Finished HMM 1232 : 0.040514 minutes left
+Current step is 1233/1457
+Finished HMM 1233 : 0.040337 minutes left
+Current step is 1234/1457
+Finished HMM 1234 : 0.040159 minutes left
+Current step is 1235/1457
+Finished HMM 1235 : 0.039981 minutes left
+Current step is 1236/1457
+Finished HMM 1236 : 0.039805 minutes left
+Current step is 1237/1457
+Finished HMM 1237 : 0.039625 minutes left
+Current step is 1238/1457
+Finished HMM 1238 : 0.039446 minutes left
+Current step is 1239/1457
+Finished HMM 1239 : 0.039267 minutes left
+Current step is 1240/1457
+Finished HMM 1240 : 0.039087 minutes left
+Current step is 1241/1457
+Finished HMM 1241 : 0.038906 minutes left
+Current step is 1242/1457
+Finished HMM 1242 : 0.038726 minutes left
+Current step is 1243/1457
+Finished HMM 1243 : 0.038546 minutes left
+Current step is 1244/1457
+Finished HMM 1244 : 0.038368 minutes left
+Current step is 1245/1457
+Finished HMM 1245 : 0.038189 minutes left
+Current step is 1246/1457
+Finished HMM 1246 : 0.03801 minutes left
+Current step is 1247/1457
+Finished HMM 1247 : 0.037831 minutes left
+Current step is 1248/1457
+Finished HMM 1248 : 0.037652 minutes left
+Current step is 1249/1457
+Finished HMM 1249 : 0.037473 minutes left
+Current step is 1250/1457
+Finished HMM 1250 : 0.037294 minutes left
+Current step is 1251/1457
+Finished HMM 1251 : 0.037114 minutes left
+Current step is 1252/1457
+Finished HMM 1252 : 0.036938 minutes left
+Current step is 1253/1457
+Finished HMM 1253 : 0.03676 minutes left
+Current step is 1254/1457
+Finished HMM 1254 : 0.036582 minutes left
+Current step is 1255/1457
+Finished HMM 1255 : 0.036402 minutes left
+Current step is 1256/1457
+Finished HMM 1256 : 0.036226 minutes left
+Current step is 1257/1457
+Finished HMM 1257 : 0.036048 minutes left
+Current step is 1258/1457
+Finished HMM 1258 : 0.035868 minutes left
+Current step is 1259/1457
+Finished HMM 1259 : 0.035689 minutes left
+Current step is 1260/1457
+Finished HMM 1260 : 0.03551 minutes left
+Current step is 1261/1457
+Finished HMM 1261 : 0.035331 minutes left
+Current step is 1262/1457
+Finished HMM 1262 : 0.035157 minutes left
+Current step is 1263/1457
+Finished HMM 1263 : 0.034979 minutes left
+Current step is 1264/1457
+Finished HMM 1264 : 0.034801 minutes left
+Current step is 1265/1457
+Finished HMM 1265 : 0.034623 minutes left
+Current step is 1266/1457
+Finished HMM 1266 : 0.034446 minutes left
+Current step is 1267/1457
+Finished HMM 1267 : 0.034269 minutes left
+Current step is 1268/1457
+Finished HMM 1268 : 0.03409 minutes left
+Current step is 1269/1457
+Finished HMM 1269 : 0.033911 minutes left
+Current step is 1270/1457
+Finished HMM 1270 : 0.033732 minutes left
+Current step is 1271/1457
+Finished HMM 1271 : 0.033553 minutes left
+Current step is 1272/1457
+Finished HMM 1272 : 0.033374 minutes left
+Current step is 1273/1457
+Finished HMM 1273 : 0.033195 minutes left
+Current step is 1274/1457
+Finished HMM 1274 : 0.033016 minutes left
+Current step is 1275/1457
+Finished HMM 1275 : 0.032837 minutes left
+Current step is 1276/1457
+Finished HMM 1276 : 0.032657 minutes left
+Current step is 1277/1457
+Finished HMM 1277 : 0.032478 minutes left
+Current step is 1278/1457
+Finished HMM 1278 : 0.032299 minutes left
+Current step is 1279/1457
+Finished HMM 1279 : 0.03212 minutes left
+Current step is 1280/1457
+Finished HMM 1280 : 0.031943 minutes left
+Current step is 1281/1457
+Finished HMM 1281 : 0.031764 minutes left
+Current step is 1282/1457
+Finished HMM 1282 : 0.031585 minutes left
+Current step is 1283/1457
+Finished HMM 1283 : 0.031407 minutes left
+Current step is 1284/1457
+Finished HMM 1284 : 0.031227 minutes left
+Current step is 1285/1457
+Finished HMM 1285 : 0.031049 minutes left
+Current step is 1286/1457
+Finished HMM 1286 : 0.03087 minutes left
+Current step is 1287/1457
+Finished HMM 1287 : 0.030692 minutes left
+Current step is 1288/1457
+Finished HMM 1288 : 0.030513 minutes left
+Current step is 1289/1457
+Finished HMM 1289 : 0.030334 minutes left
+Current step is 1290/1457
+Finished HMM 1290 : 0.030156 minutes left
+Current step is 1291/1457
+Finished HMM 1291 : 0.029979 minutes left
+Current step is 1292/1457
+Finished HMM 1292 : 0.0298 minutes left
+Current step is 1293/1457
+Finished HMM 1293 : 0.02962 minutes left
+Current step is 1294/1457
+Finished HMM 1294 : 0.029441 minutes left
+Current step is 1295/1457
+Finished HMM 1295 : 0.029263 minutes left
+Current step is 1296/1457
+Finished HMM 1296 : 0.029084 minutes left
+Current step is 1297/1457
+Finished HMM 1297 : 0.028903 minutes left
+Current step is 1298/1457
+Finished HMM 1298 : 0.028722 minutes left
+Current step is 1299/1457
+Finished HMM 1299 : 0.028542 minutes left
+Current step is 1300/1457
+Finished HMM 1300 : 0.028363 minutes left
+Current step is 1301/1457
+Finished HMM 1301 : 0.028185 minutes left
+Current step is 1302/1457
+Finished HMM 1302 : 0.028006 minutes left
+Current step is 1303/1457
+Finished HMM 1303 : 0.027827 minutes left
+Current step is 1304/1457
+Finished HMM 1304 : 0.027647 minutes left
+Current step is 1305/1457
+Finished HMM 1305 : 0.027468 minutes left
+Current step is 1306/1457
+Finished HMM 1306 : 0.027288 minutes left
+Current step is 1307/1457
+Finished HMM 1307 : 0.027108 minutes left
+Current step is 1308/1457
+Finished HMM 1308 : 0.026928 minutes left
+Current step is 1309/1457
+Finished HMM 1309 : 0.026749 minutes left
+Current step is 1310/1457
+Finished HMM 1310 : 0.02657 minutes left
+Current step is 1311/1457
+Finished HMM 1311 : 0.026392 minutes left
+Current step is 1312/1457
+Finished HMM 1312 : 0.026213 minutes left
+Current step is 1313/1457
+Finished HMM 1313 : 0.026033 minutes left
+Current step is 1314/1457
+Finished HMM 1314 : 0.025855 minutes left
+Current step is 1315/1457
+Finished HMM 1315 : 0.025676 minutes left
+Current step is 1316/1457
+Finished HMM 1316 : 0.025496 minutes left
+Current step is 1317/1457
+Finished HMM 1317 : 0.025317 minutes left
+Current step is 1318/1457
+Finished HMM 1318 : 0.025139 minutes left
+Current step is 1319/1457
+Finished HMM 1319 : 0.024961 minutes left
+Current step is 1320/1457
+Finished HMM 1320 : 0.024782 minutes left
+Current step is 1321/1457
+Finished HMM 1321 : 0.024604 minutes left
+Current step is 1322/1457
+Finished HMM 1322 : 0.024426 minutes left
+Current step is 1323/1457
+Finished HMM 1323 : 0.024249 minutes left
+Current step is 1324/1457
+Finished HMM 1324 : 0.02407 minutes left
+Current step is 1325/1457
+Finished HMM 1325 : 0.023891 minutes left
+Current step is 1326/1457
+Finished HMM 1326 : 0.02371 minutes left
+Current step is 1327/1457
+Finished HMM 1327 : 0.023532 minutes left
+Current step is 1328/1457
+Finished HMM 1328 : 0.023354 minutes left
+Current step is 1329/1457
+Finished HMM 1329 : 0.023175 minutes left
+Current step is 1330/1457
+Finished HMM 1330 : 0.022996 minutes left
+Current step is 1331/1457
+Finished HMM 1331 : 0.022818 minutes left
+Current step is 1332/1457
+Finished HMM 1332 : 0.022639 minutes left
+Current step is 1333/1457
+Finished HMM 1333 : 0.022461 minutes left
+Current step is 1334/1457
+Finished HMM 1334 : 0.022282 minutes left
+Current step is 1335/1457
+Finished HMM 1335 : 0.022104 minutes left
+Current step is 1336/1457
+Finished HMM 1336 : 0.021926 minutes left
+Current step is 1337/1457
+Finished HMM 1337 : 0.021747 minutes left
+Current step is 1338/1457
+Finished HMM 1338 : 0.021569 minutes left
+Current step is 1339/1457
+Finished HMM 1339 : 0.021391 minutes left
+Current step is 1340/1457
+Finished HMM 1340 : 0.021212 minutes left
+Current step is 1341/1457
+Finished HMM 1341 : 0.021034 minutes left
+Current step is 1342/1457
+Finished HMM 1342 : 0.020855 minutes left
+Current step is 1343/1457
+Finished HMM 1343 : 0.020678 minutes left
+Current step is 1344/1457
+Finished HMM 1344 : 0.020501 minutes left
+Current step is 1345/1457
+Finished HMM 1345 : 0.020322 minutes left
+Current step is 1346/1457
+Finished HMM 1346 : 0.020143 minutes left
+Current step is 1347/1457
+Finished HMM 1347 : 0.019965 minutes left
+Current step is 1348/1457
+Finished HMM 1348 : 0.019787 minutes left
+Current step is 1349/1457
+Finished HMM 1349 : 0.019608 minutes left
+Current step is 1350/1457
+Finished HMM 1350 : 0.01943 minutes left
+Current step is 1351/1457
+Finished HMM 1351 : 0.019252 minutes left
+Current step is 1352/1457
+Finished HMM 1352 : 0.019073 minutes left
+Current step is 1353/1457
+Finished HMM 1353 : 0.018894 minutes left
+Current step is 1354/1457
+Finished HMM 1354 : 0.018716 minutes left
+Current step is 1355/1457
+Finished HMM 1355 : 0.018537 minutes left
+Current step is 1356/1457
+Finished HMM 1356 : 0.01836 minutes left
+Current step is 1357/1457
+Finished HMM 1357 : 0.018182 minutes left
+Current step is 1358/1457
+Finished HMM 1358 : 0.018003 minutes left
+Current step is 1359/1457
+Finished HMM 1359 : 0.017825 minutes left
+Current step is 1360/1457
+Finished HMM 1360 : 0.017647 minutes left
+Current step is 1361/1457
+Finished HMM 1361 : 0.017468 minutes left
+Current step is 1362/1457
+Finished HMM 1362 : 0.01729 minutes left
+Current step is 1363/1457
+Finished HMM 1363 : 0.017112 minutes left
+Current step is 1364/1457
+Finished HMM 1364 : 0.016934 minutes left
+Current step is 1365/1457
+Finished HMM 1365 : 0.016756 minutes left
+Current step is 1366/1457
+Finished HMM 1366 : 0.016577 minutes left
+Current step is 1367/1457
+Finished HMM 1367 : 0.016399 minutes left
+Current step is 1368/1457
+Finished HMM 1368 : 0.016222 minutes left
+Current step is 1369/1457
+Finished HMM 1369 : 0.016044 minutes left
+Current step is 1370/1457
+Finished HMM 1370 : 0.015865 minutes left
+Current step is 1371/1457
+Finished HMM 1371 : 0.015687 minutes left
+Current step is 1372/1457
+Finished HMM 1372 : 0.015508 minutes left
+Current step is 1373/1457
+Finished HMM 1373 : 0.01533 minutes left
+Current step is 1374/1457
+Finished HMM 1374 : 0.015152 minutes left
+Current step is 1375/1457
+Finished HMM 1375 : 0.014973 minutes left
+Current step is 1376/1457
+Finished HMM 1376 : 0.014794 minutes left
+Current step is 1377/1457
+Finished HMM 1377 : 0.014616 minutes left
+Current step is 1378/1457
+Finished HMM 1378 : 0.014438 minutes left
+Current step is 1379/1457
+Finished HMM 1379 : 0.014261 minutes left
+Current step is 1380/1457
+Finished HMM 1380 : 0.014082 minutes left
+Current step is 1381/1457
+Finished HMM 1381 : 0.013904 minutes left
+Current step is 1382/1457
+Finished HMM 1382 : 0.013726 minutes left
+Current step is 1383/1457
+Finished HMM 1383 : 0.013548 minutes left
+Current step is 1384/1457
+Finished HMM 1384 : 0.01337 minutes left
+Current step is 1385/1457
+Finished HMM 1385 : 0.013191 minutes left
+Current step is 1386/1457
+Finished HMM 1386 : 0.013013 minutes left
+Current step is 1387/1457
+Finished HMM 1387 : 0.012834 minutes left
+Current step is 1388/1457
+Finished HMM 1388 : 0.012656 minutes left
+Current step is 1389/1457
+Finished HMM 1389 : 0.012477 minutes left
+Current step is 1390/1457
+Finished HMM 1390 : 0.012299 minutes left
+Current step is 1391/1457
+Finished HMM 1391 : 0.012121 minutes left
+Current step is 1392/1457
+Finished HMM 1392 : 0.011943 minutes left
+Current step is 1393/1457
+Finished HMM 1393 : 0.011764 minutes left
+Current step is 1394/1457
+Finished HMM 1394 : 0.011586 minutes left
+Current step is 1395/1457
+Finished HMM 1395 : 0.011407 minutes left
+Current step is 1396/1457
+Finished HMM 1396 : 0.011229 minutes left
+Current step is 1397/1457
+Finished HMM 1397 : 0.011051 minutes left
+Current step is 1398/1457
+Finished HMM 1398 : 0.010873 minutes left
+Current step is 1399/1457
+Finished HMM 1399 : 0.010694 minutes left
+Current step is 1400/1457
+Finished HMM 1400 : 0.010515 minutes left
+Current step is 1401/1457
+Finished HMM 1401 : 0.010336 minutes left
+Current step is 1402/1457
+Finished HMM 1402 : 0.010157 minutes left
+Current step is 1403/1457
+Finished HMM 1403 : 0.0099788 minutes left
+Current step is 1404/1457
+Finished HMM 1404 : 0.0098004 minutes left
+Current step is 1405/1457
+Finished HMM 1405 : 0.0096222 minutes left
+Current step is 1406/1457
+Finished HMM 1406 : 0.0094439 minutes left
+Current step is 1407/1457
+Finished HMM 1407 : 0.0092656 minutes left
+Current step is 1408/1457
+Finished HMM 1408 : 0.0090876 minutes left
+Current step is 1409/1457
+Finished HMM 1409 : 0.0089092 minutes left
+Current step is 1410/1457
+Finished HMM 1410 : 0.0087306 minutes left
+Current step is 1411/1457
+Finished HMM 1411 : 0.0085524 minutes left
+Current step is 1412/1457
+Finished HMM 1412 : 0.0083741 minutes left
+Current step is 1413/1457
+Finished HMM 1413 : 0.0081961 minutes left
+Current step is 1414/1457
+Finished HMM 1414 : 0.0080179 minutes left
+Current step is 1415/1457
+Finished HMM 1415 : 0.0078395 minutes left
+Current step is 1416/1457
+Finished HMM 1416 : 0.0076613 minutes left
+Current step is 1417/1457
+Finished HMM 1417 : 0.0074831 minutes left
+Current step is 1418/1457
+Finished HMM 1418 : 0.0073048 minutes left
+Current step is 1419/1457
+Finished HMM 1419 : 0.0071266 minutes left
+Current step is 1420/1457
+Finished HMM 1420 : 0.0069483 minutes left
+Current step is 1421/1457
+Finished HMM 1421 : 0.0067701 minutes left
+Current step is 1422/1457
+Finished HMM 1422 : 0.006592 minutes left
+Current step is 1423/1457
+Finished HMM 1423 : 0.0064143 minutes left
+Current step is 1424/1457
+Finished HMM 1424 : 0.006236 minutes left
+Current step is 1425/1457
+Finished HMM 1425 : 0.0060578 minutes left
+Current step is 1426/1457
+Finished HMM 1426 : 0.0058792 minutes left
+Current step is 1427/1457
+Finished HMM 1427 : 0.0057009 minutes left
+Current step is 1428/1457
+Finished HMM 1428 : 0.0055227 minutes left
+Current step is 1429/1457
+Finished HMM 1429 : 0.0053446 minutes left
+Current step is 1430/1457
+Finished HMM 1430 : 0.005166 minutes left
+Current step is 1431/1457
+Finished HMM 1431 : 0.0049875 minutes left
+Current step is 1432/1457
+Finished HMM 1432 : 0.0048092 minutes left
+Current step is 1433/1457
+Finished HMM 1433 : 0.0046312 minutes left
+Current step is 1434/1457
+Finished HMM 1434 : 0.004453 minutes left
+Current step is 1435/1457
+Finished HMM 1435 : 0.004275 minutes left
+Current step is 1436/1457
+Finished HMM 1436 : 0.0040967 minutes left
+Current step is 1437/1457
+Finished HMM 1437 : 0.0039188 minutes left
+Current step is 1438/1457
+Finished HMM 1438 : 0.0037406 minutes left
+Current step is 1439/1457
+Finished HMM 1439 : 0.0035624 minutes left
+Current step is 1440/1457
+Finished HMM 1440 : 0.0033842 minutes left
+Current step is 1441/1457
+Finished HMM 1441 : 0.003206 minutes left
+Current step is 1442/1457
+Finished HMM 1442 : 0.0030278 minutes left
+Current step is 1443/1457
+Finished HMM 1443 : 0.0028496 minutes left
+Current step is 1444/1457
+Finished HMM 1444 : 0.0026716 minutes left
+Current step is 1445/1457
+Finished HMM 1445 : 0.0024935 minutes left
+Current step is 1446/1457
+Finished HMM 1446 : 0.0023155 minutes left
+Current step is 1447/1457
+Finished HMM 1447 : 0.0021374 minutes left
+Current step is 1448/1457
+Finished HMM 1448 : 0.0019593 minutes left
+Current step is 1449/1457
+Finished HMM 1449 : 0.0017812 minutes left
+Current step is 1450/1457
+Finished HMM 1450 : 0.001603 minutes left
+Current step is 1451/1457
+Finished HMM 1451 : 0.0014249 minutes left
+Current step is 1452/1457
+Finished HMM 1452 : 0.0012468 minutes left
+Current step is 1453/1457
+Finished HMM 1453 : 0.0010687 minutes left
+Current step is 1454/1457
+Finished HMM 1454 : 0.00089055 minutes left
+Current step is 1455/1457
+Finished HMM 1455 : 0.00071245 minutes left
+Current step is 1456/1457
+Finished HMM 1456 : 0.00053433 minutes left
+Current step is 1457/1457
+Finished HMM 1457 : 0.0003562 minutes left
+
+ans =
+
+     0
+
+
+ans =
+
+     0
+
+
+ans =
+
+     0
+
+Saving HMM features 1
+Saving HMM features 2
+Saving HMM features 3
+Saving HMM features 4
+Saving HMM features 5
+Saving HMM features 6
+Saving HMM features 7
+Saving HMM features 8
+Saving HMM features 9
+Saving HMM features 10
+Saving HMM features 11
+Saving HMM features 12
+Saving HMM features 13
+Saving HMM features 14
+Saving HMM features 15
+Saving HMM features 16
+Saving HMM features 17
+Saving HMM features 18
+Saving HMM features 19
+Saving HMM features 20
+Saving HMM features 21
+Saving HMM features 22
+Saving HMM features 23
+Saving HMM features 24
+Saving HMM features 25
+Saving HMM features 26
+Saving HMM features 27
+Saving HMM features 28
+Saving HMM features 29
+Saving HMM features 30
+Saving HMM features 31
+Saving HMM features 32
+Saving HMM features 33
+Saving HMM features 34
+Saving HMM features 35
+Saving HMM features 36
+Saving HMM features 37
+Saving HMM features 38
+Saving HMM features 39
+Saving HMM features 40
+Saving HMM features 41
+Saving HMM features 42
+Saving HMM features 43
+Saving HMM features 44
+Saving HMM features 45
+Saving HMM features 46
+Saving HMM features 47
+Saving HMM features 48
+Saving HMM features 49
+Saving HMM features 50
+Saving HMM features 51
+Saving HMM features 52
+Saving HMM features 53
+Saving HMM features 54
+Saving HMM features 55
+Saving HMM features 56
+Saving HMM features 57
+Saving HMM features 58
+Saving HMM features 59
+Saving HMM features 60
+Saving HMM features 61
+Saving HMM features 62
+Saving HMM features 63
+Saving HMM features 64
+Saving HMM features 65
+Saving HMM features 66
+Saving HMM features 67
+Saving HMM features 68
+Saving HMM features 69
+Saving HMM features 70
+Saving HMM features 71
+Saving HMM features 72
+Saving HMM features 73
+Saving HMM features 74
+Saving HMM features 75
+Saving HMM features 76
+Saving HMM features 77
+Saving HMM features 78
+Saving HMM features 79
+Saving HMM features 80
+Saving HMM features 81
+Saving HMM features 82
+Saving HMM features 83
+Saving HMM features 84
+Saving HMM features 85
+Saving HMM features 86
+Saving HMM features 87
+Saving HMM features 88
+Saving HMM features 89
+Saving HMM features 90
+Saving HMM features 91
+Saving HMM features 92
+Saving HMM features 93
+Saving HMM features 94
+Saving HMM features 95
+Saving HMM features 96
+Saving HMM features 97
+Saving HMM features 98
+Saving HMM features 99
+Saving HMM features 100
+Saving HMM features 101
+Saving HMM features 102
+Saving HMM features 103
+Saving HMM features 104
+Saving HMM features 105
+Saving HMM features 106
+Saving HMM features 107
+Saving HMM features 108
+Saving HMM features 109
+Saving HMM features 110
+Saving HMM features 111
+Saving HMM features 112
+Saving HMM features 113
+Saving HMM features 114
+Saving HMM features 115
+Saving HMM features 116
+Saving HMM features 117
+Saving HMM features 118
+Saving HMM features 119
+Saving HMM features 120
+Saving HMM features 121
+Saving HMM features 122
+Saving HMM features 123
+Saving HMM features 124
+Saving HMM features 125
+Saving HMM features 126
+Saving HMM features 127
+Saving HMM features 128
+Saving HMM features 129
+Saving HMM features 130
+Saving HMM features 131
+Saving HMM features 132
+Saving HMM features 133
+Saving HMM features 134
+Saving HMM features 135
+Saving HMM features 136
+Saving HMM features 137
+Saving HMM features 138
+Saving HMM features 139
+Saving HMM features 140
+Saving HMM features 141
+Saving HMM features 142
+Saving HMM features 143
+Saving HMM features 144
+Saving HMM features 145
+Saving HMM features 146
+Saving HMM features 147
+Saving HMM features 148
+Saving HMM features 149
+Saving HMM features 150
+Saving HMM features 151
+Saving HMM features 152
+Saving HMM features 153
+Saving HMM features 154
+Saving HMM features 155
+Saving HMM features 156
+Saving HMM features 157
+Saving HMM features 158
+Saving HMM features 159
+Saving HMM features 160
+Saving HMM features 161
+Saving HMM features 162
+Saving HMM features 163
+Saving HMM features 164
+Saving HMM features 165
+Saving HMM features 166
+Saving HMM features 167
+Saving HMM features 168
+Saving HMM features 169
+Saving HMM features 170
+Saving HMM features 171
+Saving HMM features 172
+Saving HMM features 173
+Saving HMM features 174
+Saving HMM features 175
+Saving HMM features 176
+Saving HMM features 177
+Saving HMM features 178
+Saving HMM features 179
+Saving HMM features 180
+Saving HMM features 181
+Saving HMM features 182
+Saving HMM features 183
+Saving HMM features 184
+Saving HMM features 185
+Saving HMM features 186
+Saving HMM features 187
+Saving HMM features 188
+Saving HMM features 189
+Saving HMM features 190
+Saving HMM features 191
+Saving HMM features 192
+Saving HMM features 193
+Saving HMM features 194
+Saving HMM features 195
+Saving HMM features 196
+Saving HMM features 197
+Saving HMM features 198
+Saving HMM features 199
+Saving HMM features 200
+Saving HMM features 201
+Saving HMM features 202
+Saving HMM features 203
+Saving HMM features 204
+Saving HMM features 205
+Saving HMM features 206
+Saving HMM features 207
+Saving HMM features 208
+Saving HMM features 209
+Saving HMM features 210
+Saving HMM features 211
+Saving HMM features 212
+Saving HMM features 213
+Saving HMM features 214
+Saving HMM features 215
+Saving HMM features 216
+Saving HMM features 217
+Saving HMM features 218
+Saving HMM features 219
+Saving HMM features 220
+Saving HMM features 221
+Saving HMM features 222
+Saving HMM features 223
+Saving HMM features 224
+Saving HMM features 225
+Saving HMM features 226
+Saving HMM features 227
+Saving HMM features 228
+Saving HMM features 229
+Saving HMM features 230
+Saving HMM features 231
+Saving HMM features 232
+Saving HMM features 233
+Saving HMM features 234
+Saving HMM features 235
+Saving HMM features 236
+Saving HMM features 237
+Saving HMM features 238
+Saving HMM features 239
+Saving HMM features 240
+Saving HMM features 241
+Saving HMM features 242
+Saving HMM features 243
+Saving HMM features 244
+Saving HMM features 245
+Saving HMM features 246
+Saving HMM features 247
+Saving HMM features 248
+Saving HMM features 249
+Saving HMM features 250
+Saving HMM features 251
+Saving HMM features 252
+Saving HMM features 253
+Saving HMM features 254
+Saving HMM features 255
+Saving HMM features 256
+Saving HMM features 257
+Saving HMM features 258
+Saving HMM features 259
+Saving HMM features 260
+Saving HMM features 261
+Saving HMM features 262
+Saving HMM features 263
+Saving HMM features 264
+Saving HMM features 265
+Saving HMM features 266
+Saving HMM features 267
+Saving HMM features 268
+Saving HMM features 269
+Saving HMM features 270
+Saving HMM features 271
+Saving HMM features 272
+Saving HMM features 273
+Saving HMM features 274
+Saving HMM features 275
+Saving HMM features 276
+Saving HMM features 277
+Saving HMM features 278
+Saving HMM features 279
+Saving HMM features 280
+Saving HMM features 281
+Saving HMM features 282
+Saving HMM features 283
+Saving HMM features 284
+Saving HMM features 285
+Saving HMM features 286
+Saving HMM features 287
+Saving HMM features 288
+Saving HMM features 289
+Saving HMM features 290
+Saving HMM features 291
+Saving HMM features 292
+Saving HMM features 293
+Saving HMM features 294
+Saving HMM features 295
+Saving HMM features 296
+Saving HMM features 297
+Saving HMM features 298
+Saving HMM features 299
+Saving HMM features 300
+Saving HMM features 301
+Saving HMM features 302
+Saving HMM features 303
+Saving HMM features 304
+Saving HMM features 305
+Saving HMM features 306
+Saving HMM features 307
+Saving HMM features 308
+Saving HMM features 309
+Saving HMM features 310
+Saving HMM features 311
+Saving HMM features 312
+Saving HMM features 313
+Saving HMM features 314
+Saving HMM features 315
+Saving HMM features 316
+Saving HMM features 317
+Saving HMM features 318
+Saving HMM features 319
+Saving HMM features 320
+Saving HMM features 321
+Saving HMM features 322
+Saving HMM features 323
+Saving HMM features 324
+Saving HMM features 325
+Saving HMM features 326
+Saving HMM features 327
+Saving HMM features 328
+Saving HMM features 329
+Saving HMM features 330
+Saving HMM features 331
+Saving HMM features 332
+Saving HMM features 333
+Saving HMM features 334
+Saving HMM features 335
+Saving HMM features 336
+Saving HMM features 337
+Saving HMM features 338
+Saving HMM features 339
+Saving HMM features 340
+Saving HMM features 341
+Saving HMM features 342
+Saving HMM features 343
+Saving HMM features 344
+Saving HMM features 345
+Saving HMM features 346
+Saving HMM features 347
+Saving HMM features 348
+Saving HMM features 349
+Saving HMM features 350
+Saving HMM features 351
+Saving HMM features 352
+Saving HMM features 353
+Saving HMM features 354
+Saving HMM features 355
+Saving HMM features 356
+Saving HMM features 357
+Saving HMM features 358
+Saving HMM features 359
+Saving HMM features 360
+Saving HMM features 361
+Saving HMM features 362
+Saving HMM features 363
+Saving HMM features 364
+Saving HMM features 365
+Saving HMM features 366
+Saving HMM features 367
+Saving HMM features 368
+Saving HMM features 369
+Saving HMM features 370
+Saving HMM features 371
+Saving HMM features 372
+Saving HMM features 373
+Saving HMM features 374
+Saving HMM features 375
+Saving HMM features 376
+Saving HMM features 377
+Saving HMM features 378
+Saving HMM features 379
+Saving HMM features 380
+Saving HMM features 381
+Saving HMM features 382
+Saving HMM features 383
+Saving HMM features 384
+Saving HMM features 385
+Saving HMM features 386
+Saving HMM features 387
+Saving HMM features 388
+Saving HMM features 389
+Saving HMM features 390
+Saving HMM features 391
+Saving HMM features 392
+Saving HMM features 393
+Saving HMM features 394
+Saving HMM features 395
+Saving HMM features 396
+Saving HMM features 397
+Saving HMM features 398
+Saving HMM features 399
+Saving HMM features 400
+Saving HMM features 401
+Saving HMM features 402
+Saving HMM features 403
+Saving HMM features 404
+Saving HMM features 405
+Saving HMM features 406
+Saving HMM features 407
+Saving HMM features 408
+Saving HMM features 409
+Saving HMM features 410
+Saving HMM features 411
+Saving HMM features 412
+Saving HMM features 413
+Saving HMM features 414
+Saving HMM features 415
+Saving HMM features 416
+Saving HMM features 417
+Saving HMM features 418
+Saving HMM features 419
+Saving HMM features 420
+Saving HMM features 421
+Saving HMM features 422
+Saving HMM features 423
+Saving HMM features 424
+Saving HMM features 425
+Saving HMM features 426
+Saving HMM features 427
+Saving HMM features 428
+Saving HMM features 429
+Saving HMM features 430
+Saving HMM features 431
+Saving HMM features 432
+Saving HMM features 433
+Saving HMM features 434
+Saving HMM features 435
+Saving HMM features 436
+Saving HMM features 437
+Saving HMM features 438
+Saving HMM features 439
+Saving HMM features 440
+Saving HMM features 441
+Saving HMM features 442
+Saving HMM features 443
+Saving HMM features 444
+Saving HMM features 445
+Saving HMM features 446
+Saving HMM features 447
+Saving HMM features 448
+Saving HMM features 449
+Saving HMM features 450
+Saving HMM features 451
+Saving HMM features 452
+Saving HMM features 453
+Saving HMM features 454
+Saving HMM features 455
+Saving HMM features 456
+Saving HMM features 457
+Saving HMM features 458
+Saving HMM features 459
+Saving HMM features 460
+Saving HMM features 461
+Saving HMM features 462
+Saving HMM features 463
+Saving HMM features 464
+Saving HMM features 465
+Saving HMM features 466
+Saving HMM features 467
+Saving HMM features 468
+Saving HMM features 469
+Saving HMM features 470
+Saving HMM features 471
+Saving HMM features 472
+Saving HMM features 473
+Saving HMM features 474
+Saving HMM features 475
+Saving HMM features 476
+Saving HMM features 477
+Saving HMM features 478
+Saving HMM features 479
+Saving HMM features 480
+Saving HMM features 481
+Saving HMM features 482
+Saving HMM features 483
+Saving HMM features 484
+Saving HMM features 485
+Saving HMM features 486
+Saving HMM features 487
+Saving HMM features 488
+Saving HMM features 489
+Saving HMM features 490
+Saving HMM features 491
+Saving HMM features 492
+Saving HMM features 493
+Saving HMM features 494
+Saving HMM features 495
+Saving HMM features 496
+Saving HMM features 497
+Saving HMM features 498
+Saving HMM features 499
+Saving HMM features 500
+Saving HMM features 501
+Saving HMM features 502
+Saving HMM features 503
+Saving HMM features 504
+Saving HMM features 505
+Saving HMM features 506
+Saving HMM features 507
+Saving HMM features 508
+Saving HMM features 509
+Saving HMM features 510
+Saving HMM features 511
+Saving HMM features 512
+Saving HMM features 513
+Saving HMM features 514
+Saving HMM features 515
+Saving HMM features 516
+Saving HMM features 517
+Saving HMM features 518
+Saving HMM features 519
+Saving HMM features 520
+Saving HMM features 521
+Saving HMM features 522
+Saving HMM features 523
+Saving HMM features 524
+Saving HMM features 525
+Saving HMM features 526
+Saving HMM features 527
+Saving HMM features 528
+Saving HMM features 529
+Saving HMM features 530
+Saving HMM features 531
+Saving HMM features 532
+Saving HMM features 533
+Saving HMM features 534
+Saving HMM features 535
+Saving HMM features 536
+Saving HMM features 537
+Saving HMM features 538
+Saving HMM features 539
+Saving HMM features 540
+Saving HMM features 541
+Saving HMM features 542
+Saving HMM features 543
+Saving HMM features 544
+Saving HMM features 545
+Saving HMM features 546
+Saving HMM features 547
+Saving HMM features 548
+Saving HMM features 549
+Saving HMM features 550
+Saving HMM features 551
+Saving HMM features 552
+Saving HMM features 553
+Saving HMM features 554
+Saving HMM features 555
+Saving HMM features 556
+Saving HMM features 557
+Saving HMM features 558
+Saving HMM features 559
+Saving HMM features 560
+Saving HMM features 561
+Saving HMM features 562
+Saving HMM features 563
+Saving HMM features 564
+Saving HMM features 565
+Saving HMM features 566
+Saving HMM features 567
+Saving HMM features 568
+Saving HMM features 569
+Saving HMM features 570
+Saving HMM features 571
+Saving HMM features 572
+Saving HMM features 573
+Saving HMM features 574
+Saving HMM features 575
+Saving HMM features 576
+Saving HMM features 577
+Saving HMM features 578
+Saving HMM features 579
+Saving HMM features 580
+Saving HMM features 581
+Saving HMM features 582
+Saving HMM features 583
+Saving HMM features 584
+Saving HMM features 585
+Saving HMM features 586
+Saving HMM features 587
+Saving HMM features 588
+Saving HMM features 589
+Saving HMM features 590
+Saving HMM features 591
+Saving HMM features 592
+Saving HMM features 593
+Saving HMM features 594
+Saving HMM features 595
+Saving HMM features 596
+Saving HMM features 597
+Saving HMM features 598
+Saving HMM features 599
+Saving HMM features 600
+Saving HMM features 601
+Saving HMM features 602
+Saving HMM features 603
+Saving HMM features 604
+Saving HMM features 605
+Saving HMM features 606
+Saving HMM features 607
+Saving HMM features 608
+Saving HMM features 609
+Saving HMM features 610
+Saving HMM features 611
+Saving HMM features 612
+Saving HMM features 613
+Saving HMM features 614
+Saving HMM features 615
+Saving HMM features 616
+Saving HMM features 617
+Saving HMM features 618
+Saving HMM features 619
+Saving HMM features 620
+Saving HMM features 621
+Saving HMM features 622
+Saving HMM features 623
+Saving HMM features 624
+Saving HMM features 625
+Saving HMM features 626
+Saving HMM features 627
+Saving HMM features 628
+Saving HMM features 629
+Saving HMM features 630
+Saving HMM features 631
+Saving HMM features 632
+Saving HMM features 633
+Saving HMM features 634
+Saving HMM features 635
+Saving HMM features 636
+Saving HMM features 637
+Saving HMM features 638
+Saving HMM features 639
+Saving HMM features 640
+Saving HMM features 641
+Saving HMM features 642
+Saving HMM features 643
+Saving HMM features 644
+Saving HMM features 645
+Saving HMM features 646
+Saving HMM features 647
+Saving HMM features 648
+Saving HMM features 649
+Saving HMM features 650
+Saving HMM features 651
+Saving HMM features 652
+Saving HMM features 653
+Saving HMM features 654
+Saving HMM features 655
+Saving HMM features 656
+Saving HMM features 657
+Saving HMM features 658
+Saving HMM features 659
+Saving HMM features 660
+Saving HMM features 661
+Saving HMM features 662
+Saving HMM features 663
+Saving HMM features 664
+Saving HMM features 665
+Saving HMM features 666
+Saving HMM features 667
+Saving HMM features 668
+Saving HMM features 669
+Saving HMM features 670
+Saving HMM features 671
+Saving HMM features 672
+Saving HMM features 673
+Saving HMM features 674
+Saving HMM features 675
+Saving HMM features 676
+Saving HMM features 677
+Saving HMM features 678
+Saving HMM features 679
+Saving HMM features 680
+Saving HMM features 681
+Saving HMM features 682
+Saving HMM features 683
+Saving HMM features 684
+Saving HMM features 685
+Saving HMM features 686
+Saving HMM features 687
+Saving HMM features 688
+Saving HMM features 689
+Saving HMM features 690
+Saving HMM features 691
+Saving HMM features 692
+Saving HMM features 693
+Saving HMM features 694
+Saving HMM features 695
+Saving HMM features 696
+Saving HMM features 697
+Saving HMM features 698
+Saving HMM features 699
+Saving HMM features 700
+Saving HMM features 701
+Saving HMM features 702
+Saving HMM features 703
+Saving HMM features 704
+Saving HMM features 705
+Saving HMM features 706
+Saving HMM features 707
+Saving HMM features 708
+Saving HMM features 709
+Saving HMM features 710
+Saving HMM features 711
+Saving HMM features 712
+Saving HMM features 713
+Saving HMM features 714
+Saving HMM features 715
+Saving HMM features 716
+Saving HMM features 717
+Saving HMM features 718
+Saving HMM features 719
+Saving HMM features 720
+Saving HMM features 721
+Saving HMM features 722
+Saving HMM features 723
+Saving HMM features 724
+Saving HMM features 725
+Saving HMM features 726
+Saving HMM features 727
+Saving HMM features 728
+Saving HMM features 729
+Saving HMM features 730
+Saving HMM features 731
+Saving HMM features 732
+Saving HMM features 733
+Saving HMM features 734
+Saving HMM features 735
+Saving HMM features 736
+Saving HMM features 737
+Saving HMM features 738
+Saving HMM features 739
+Saving HMM features 740
+Saving HMM features 741
+Saving HMM features 742
+Saving HMM features 743
+Saving HMM features 744
+Saving HMM features 745
+Saving HMM features 746
+Saving HMM features 747
+Saving HMM features 748
+Saving HMM features 749
+Saving HMM features 750
+Saving HMM features 751
+Saving HMM features 752
+Saving HMM features 753
+Saving HMM features 754
+Saving HMM features 755
+Saving HMM features 756
+Saving HMM features 757
+Saving HMM features 758
+Saving HMM features 759
+Saving HMM features 760
+Saving HMM features 761
+Saving HMM features 762
+Saving HMM features 763
+Saving HMM features 764
+Saving HMM features 765
+Saving HMM features 766
+Saving HMM features 767
+Saving HMM features 768
+Saving HMM features 769
+Saving HMM features 770
+Saving HMM features 771
+Saving HMM features 772
+Saving HMM features 773
+Saving HMM features 774
+Saving HMM features 775
+Saving HMM features 776
+Saving HMM features 777
+Saving HMM features 778
+Saving HMM features 779
+Saving HMM features 780
+Saving HMM features 781
+Saving HMM features 782
+Saving HMM features 783
+Saving HMM features 784
+Saving HMM features 785
+Saving HMM features 786
+Saving HMM features 787
+Saving HMM features 788
+Saving HMM features 789
+Saving HMM features 790
+Saving HMM features 791
+Saving HMM features 792
+Saving HMM features 793
+Saving HMM features 794
+Saving HMM features 795
+Saving HMM features 796
+Saving HMM features 797
+Saving HMM features 798
+Saving HMM features 799
+Saving HMM features 800
+Saving HMM features 801
+Saving HMM features 802
+Saving HMM features 803
+Saving HMM features 804
+Saving HMM features 805
+Saving HMM features 806
+Saving HMM features 807
+Saving HMM features 808
+Saving HMM features 809
+Saving HMM features 810
+Saving HMM features 811
+Saving HMM features 812
+Saving HMM features 813
+Saving HMM features 814
+Saving HMM features 815
+Saving HMM features 816
+Saving HMM features 817
+Saving HMM features 818
+Saving HMM features 819
+Saving HMM features 820
+Saving HMM features 821
+Saving HMM features 822
+Saving HMM features 823
+Saving HMM features 824
+Saving HMM features 825
+Saving HMM features 826
+Saving HMM features 827
+Saving HMM features 828
+Saving HMM features 829
+Saving HMM features 830
+Saving HMM features 831
+Saving HMM features 832
+Saving HMM features 833
+Saving HMM features 834
+Saving HMM features 835
+Saving HMM features 836
+Saving HMM features 837
+Saving HMM features 838
+Saving HMM features 839
+Saving HMM features 840
+Saving HMM features 841
+Saving HMM features 842
+Saving HMM features 843
+Saving HMM features 844
+Saving HMM features 845
+Saving HMM features 846
+Saving HMM features 847
+Saving HMM features 848
+Saving HMM features 849
+Saving HMM features 850
+Saving HMM features 851
+Saving HMM features 852
+Saving HMM features 853
+Saving HMM features 854
+Saving HMM features 855
+Saving HMM features 856
+Saving HMM features 857
+Saving HMM features 858
+Saving HMM features 859
+Saving HMM features 860
+Saving HMM features 861
+Saving HMM features 862
+Saving HMM features 863
+Saving HMM features 864
+Saving HMM features 865
+Saving HMM features 866
+Saving HMM features 867
+Saving HMM features 868
+Saving HMM features 869
+Saving HMM features 870
+Saving HMM features 871
+Saving HMM features 872
+Saving HMM features 873
+Saving HMM features 874
+Saving HMM features 875
+Saving HMM features 876
+Saving HMM features 877
+Saving HMM features 878
+Saving HMM features 879
+Saving HMM features 880
+Saving HMM features 881
+Saving HMM features 882
+Saving HMM features 883
+Saving HMM features 884
+Saving HMM features 885
+Saving HMM features 886
+Saving HMM features 887
+Saving HMM features 888
+Saving HMM features 889
+Saving HMM features 890
+Saving HMM features 891
+Saving HMM features 892
+Saving HMM features 893
+Saving HMM features 894
+Saving HMM features 895
+Saving HMM features 896
+Saving HMM features 897
+Saving HMM features 898
+Saving HMM features 899
+Saving HMM features 900
+Saving HMM features 901
+Saving HMM features 902
+Saving HMM features 903
+Saving HMM features 904
+Saving HMM features 905
+Saving HMM features 906
+Saving HMM features 907
+Saving HMM features 908
+Saving HMM features 909
+Saving HMM features 910
+Saving HMM features 911
+Saving HMM features 912
+Saving HMM features 913
+Saving HMM features 914
+Saving HMM features 915
+Saving HMM features 916
+Saving HMM features 917
+Saving HMM features 918
+Saving HMM features 919
+Saving HMM features 920
+Saving HMM features 921
+Saving HMM features 922
+Saving HMM features 923
+Saving HMM features 924
+Saving HMM features 925
+Saving HMM features 926
+Saving HMM features 927
+Saving HMM features 928
+Saving HMM features 929
+Saving HMM features 930
+Saving HMM features 931
+Saving HMM features 932
+Saving HMM features 933
+Saving HMM features 934
+Saving HMM features 935
+Saving HMM features 936
+Saving HMM features 937
+Saving HMM features 938
+Saving HMM features 939
+Saving HMM features 940
+Saving HMM features 941
+Saving HMM features 942
+Saving HMM features 943
+Saving HMM features 944
+Saving HMM features 945
+Saving HMM features 946
+Saving HMM features 947
+Saving HMM features 948
+Saving HMM features 949
+Saving HMM features 950
+Saving HMM features 951
+Saving HMM features 952
+Saving HMM features 953
+Saving HMM features 954
+Saving HMM features 955
+Saving HMM features 956
+Saving HMM features 957
+Saving HMM features 958
+Saving HMM features 959
+Saving HMM features 960
+Saving HMM features 961
+Saving HMM features 962
+Saving HMM features 963
+Saving HMM features 964
+Saving HMM features 965
+Saving HMM features 966
+Saving HMM features 967
+Saving HMM features 968
+Saving HMM features 969
+Saving HMM features 970
+Saving HMM features 971
+Saving HMM features 972
+Saving HMM features 973
+Saving HMM features 974
+Saving HMM features 975
+Saving HMM features 976
+Saving HMM features 977
+Saving HMM features 978
+Saving HMM features 979
+Saving HMM features 980
+Saving HMM features 981
+Saving HMM features 982
+Saving HMM features 983
+Saving HMM features 984
+Saving HMM features 985
+Saving HMM features 986
+Saving HMM features 987
+Saving HMM features 988
+Saving HMM features 989
+Saving HMM features 990
+Saving HMM features 991
+Saving HMM features 992
+Saving HMM features 993
+Saving HMM features 994
+Saving HMM features 995
+Saving HMM features 996
+Saving HMM features 997
+Saving HMM features 998
+Saving HMM features 999
+Saving HMM features 1000
+Saving HMM features 1001
+Saving HMM features 1002
+Saving HMM features 1003
+Saving HMM features 1004
+Saving HMM features 1005
+Saving HMM features 1006
+Saving HMM features 1007
+Saving HMM features 1008
+Saving HMM features 1009
+Saving HMM features 1010
+Saving HMM features 1011
+Saving HMM features 1012
+Saving HMM features 1013
+Saving HMM features 1014
+Saving HMM features 1015
+Saving HMM features 1016
+Saving HMM features 1017
+Saving HMM features 1018
+Saving HMM features 1019
+Saving HMM features 1020
+Saving HMM features 1021
+Saving HMM features 1022
+Saving HMM features 1023
+Saving HMM features 1024
+Saving HMM features 1025
+Saving HMM features 1026
+Saving HMM features 1027
+Saving HMM features 1028
+Saving HMM features 1029
+Saving HMM features 1030
+Saving HMM features 1031
+Saving HMM features 1032
+Saving HMM features 1033
+Saving HMM features 1034
+Saving HMM features 1035
+Saving HMM features 1036
+Saving HMM features 1037
+Saving HMM features 1038
+Saving HMM features 1039
+Saving HMM features 1040
+Saving HMM features 1041
+Saving HMM features 1042
+Saving HMM features 1043
+Saving HMM features 1044
+Saving HMM features 1045
+Saving HMM features 1046
+Saving HMM features 1047
+Saving HMM features 1048
+Saving HMM features 1049
+Saving HMM features 1050
+Saving HMM features 1051
+Saving HMM features 1052
+Saving HMM features 1053
+Saving HMM features 1054
+Saving HMM features 1055
+Saving HMM features 1056
+Saving HMM features 1057
+Saving HMM features 1058
+Saving HMM features 1059
+Saving HMM features 1060
+Saving HMM features 1061
+Saving HMM features 1062
+Saving HMM features 1063
+Saving HMM features 1064
+Saving HMM features 1065
+Saving HMM features 1066
+Saving HMM features 1067
+Saving HMM features 1068
+Saving HMM features 1069
+Saving HMM features 1070
+Saving HMM features 1071
+Saving HMM features 1072
+Saving HMM features 1073
+Saving HMM features 1074
+Saving HMM features 1075
+Saving HMM features 1076
+Saving HMM features 1077
+Saving HMM features 1078
+Saving HMM features 1079
+Saving HMM features 1080
+Saving HMM features 1081
+Saving HMM features 1082
+Saving HMM features 1083
+Saving HMM features 1084
+Saving HMM features 1085
+Saving HMM features 1086
+Saving HMM features 1087
+Saving HMM features 1088
+Saving HMM features 1089
+Saving HMM features 1090
+Saving HMM features 1091
+Saving HMM features 1092
+Saving HMM features 1093
+Saving HMM features 1094
+Saving HMM features 1095
+Saving HMM features 1096
+Saving HMM features 1097
+Saving HMM features 1098
+Saving HMM features 1099
+Saving HMM features 1100
+Saving HMM features 1101
+Saving HMM features 1102
+Saving HMM features 1103
+Saving HMM features 1104
+Saving HMM features 1105
+Saving HMM features 1106
+Saving HMM features 1107
+Saving HMM features 1108
+Saving HMM features 1109
+Saving HMM features 1110
+Saving HMM features 1111
+Saving HMM features 1112
+Saving HMM features 1113
+Saving HMM features 1114
+Saving HMM features 1115
+Saving HMM features 1116
+Saving HMM features 1117
+Saving HMM features 1118
+Saving HMM features 1119
+Saving HMM features 1120
+Saving HMM features 1121
+Saving HMM features 1122
+Saving HMM features 1123
+Saving HMM features 1124
+Saving HMM features 1125
+Saving HMM features 1126
+Saving HMM features 1127
+Saving HMM features 1128
+Saving HMM features 1129
+Saving HMM features 1130
+Saving HMM features 1131
+Saving HMM features 1132
+Saving HMM features 1133
+Saving HMM features 1134
+Saving HMM features 1135
+Saving HMM features 1136
+Saving HMM features 1137
+Saving HMM features 1138
+Saving HMM features 1139
+Saving HMM features 1140
+Saving HMM features 1141
+Saving HMM features 1142
+Saving HMM features 1143
+Saving HMM features 1144
+Saving HMM features 1145
+Saving HMM features 1146
+Saving HMM features 1147
+Saving HMM features 1148
+Saving HMM features 1149
+Saving HMM features 1150
+Saving HMM features 1151
+Saving HMM features 1152
+Saving HMM features 1153
+Saving HMM features 1154
+Saving HMM features 1155
+Saving HMM features 1156
+Saving HMM features 1157
+Saving HMM features 1158
+Saving HMM features 1159
+Saving HMM features 1160
+Saving HMM features 1161
+Saving HMM features 1162
+Saving HMM features 1163
+Saving HMM features 1164
+Saving HMM features 1165
+Saving HMM features 1166
+Saving HMM features 1167
+Saving HMM features 1168
+Saving HMM features 1169
+Saving HMM features 1170
+Saving HMM features 1171
+Saving HMM features 1172
+Saving HMM features 1173
+Saving HMM features 1174
+Saving HMM features 1175
+Saving HMM features 1176
+Saving HMM features 1177
+Saving HMM features 1178
+Saving HMM features 1179
+Saving HMM features 1180
+Saving HMM features 1181
+Saving HMM features 1182
+Saving HMM features 1183
+Saving HMM features 1184
+Saving HMM features 1185
+Saving HMM features 1186
+Saving HMM features 1187
+Saving HMM features 1188
+Saving HMM features 1189
+Saving HMM features 1190
+Saving HMM features 1191
+Saving HMM features 1192
+Saving HMM features 1193
+Saving HMM features 1194
+Saving HMM features 1195
+Saving HMM features 1196
+Saving HMM features 1197
+Saving HMM features 1198
+Saving HMM features 1199
+Saving HMM features 1200
+Saving HMM features 1201
+Saving HMM features 1202
+Saving HMM features 1203
+Saving HMM features 1204
+Saving HMM features 1205
+Saving HMM features 1206
+Saving HMM features 1207
+Saving HMM features 1208
+Saving HMM features 1209
+Saving HMM features 1210
+Saving HMM features 1211
+Saving HMM features 1212
+Saving HMM features 1213
+Saving HMM features 1214
+Saving HMM features 1215
+Saving HMM features 1216
+Saving HMM features 1217
+Saving HMM features 1218
+Saving HMM features 1219
+Saving HMM features 1220
+Saving HMM features 1221
+Saving HMM features 1222
+Saving HMM features 1223
+Saving HMM features 1224
+Saving HMM features 1225
+Saving HMM features 1226
+Saving HMM features 1227
+Saving HMM features 1228
+Saving HMM features 1229
+Saving HMM features 1230
+Saving HMM features 1231
+Saving HMM features 1232
+Saving HMM features 1233
+Saving HMM features 1234
+Saving HMM features 1235
+Saving HMM features 1236
+Saving HMM features 1237
+Saving HMM features 1238
+Saving HMM features 1239
+Saving HMM features 1240
+Saving HMM features 1241
+Saving HMM features 1242
+Saving HMM features 1243
+Saving HMM features 1244
+Saving HMM features 1245
+Saving HMM features 1246
+Saving HMM features 1247
+Saving HMM features 1248
+Saving HMM features 1249
+Saving HMM features 1250
+Saving HMM features 1251
+Saving HMM features 1252
+Saving HMM features 1253
+Saving HMM features 1254
+Saving HMM features 1255
+Saving HMM features 1256
+Saving HMM features 1257
+Saving HMM features 1258
+Saving HMM features 1259
+Saving HMM features 1260
+Saving HMM features 1261
+Saving HMM features 1262
+Saving HMM features 1263
+Saving HMM features 1264
+Saving HMM features 1265
+Saving HMM features 1266
+Saving HMM features 1267
+Saving HMM features 1268
+Saving HMM features 1269
+Saving HMM features 1270
+Saving HMM features 1271
+Saving HMM features 1272
+Saving HMM features 1273
+Saving HMM features 1274
+Saving HMM features 1275
+Saving HMM features 1276
+Saving HMM features 1277
+Saving HMM features 1278
+Saving HMM features 1279
+Saving HMM features 1280
+Saving HMM features 1281
+Saving HMM features 1282
+Saving HMM features 1283
+Saving HMM features 1284
+Saving HMM features 1285
+Saving HMM features 1286
+Saving HMM features 1287
+Saving HMM features 1288
+Saving HMM features 1289
+Saving HMM features 1290
+Saving HMM features 1291
+Saving HMM features 1292
+Saving HMM features 1293
+Saving HMM features 1294
+Saving HMM features 1295
+Saving HMM features 1296
+Saving HMM features 1297
+Saving HMM features 1298
+Saving HMM features 1299
+Saving HMM features 1300
+Saving HMM features 1301
+Saving HMM features 1302
+Saving HMM features 1303
+Saving HMM features 1304
+Saving HMM features 1305
+Saving HMM features 1306
+Saving HMM features 1307
+Saving HMM features 1308
+Saving HMM features 1309
+Saving HMM features 1310
+Saving HMM features 1311
+Saving HMM features 1312
+Saving HMM features 1313
+Saving HMM features 1314
+Saving HMM features 1315
+Saving HMM features 1316
+Saving HMM features 1317
+Saving HMM features 1318
+Saving HMM features 1319
+Saving HMM features 1320
+Saving HMM features 1321
+Saving HMM features 1322
+Saving HMM features 1323
+Saving HMM features 1324
+Saving HMM features 1325
+Saving HMM features 1326
+Saving HMM features 1327
+Saving HMM features 1328
+Saving HMM features 1329
+Saving HMM features 1330
+Saving HMM features 1331
+Saving HMM features 1332
+Saving HMM features 1333
+Saving HMM features 1334
+Saving HMM features 1335
+Saving HMM features 1336
+Saving HMM features 1337
+Saving HMM features 1338
+Saving HMM features 1339
+Saving HMM features 1340
+Saving HMM features 1341
+Saving HMM features 1342
+Saving HMM features 1343
+Saving HMM features 1344
+Saving HMM features 1345
+Saving HMM features 1346
+Saving HMM features 1347
+Saving HMM features 1348
+Saving HMM features 1349
+Saving HMM features 1350
+Saving HMM features 1351
+Saving HMM features 1352
+Saving HMM features 1353
+Saving HMM features 1354
+Saving HMM features 1355
+Saving HMM features 1356
+Saving HMM features 1357
+Saving HMM features 1358
+Saving HMM features 1359
+Saving HMM features 1360
+Saving HMM features 1361
+Saving HMM features 1362
+Saving HMM features 1363
+Saving HMM features 1364
+Saving HMM features 1365
+Saving HMM features 1366
+Saving HMM features 1367
+Saving HMM features 1368
+Saving HMM features 1369
+Saving HMM features 1370
+Saving HMM features 1371
+Saving HMM features 1372
+Saving HMM features 1373
+Saving HMM features 1374
+Saving HMM features 1375
+Saving HMM features 1376
+Saving HMM features 1377
+Saving HMM features 1378
+Saving HMM features 1379
+Saving HMM features 1380
+Saving HMM features 1381
+Saving HMM features 1382
+Saving HMM features 1383
+Saving HMM features 1384
+Saving HMM features 1385
+Saving HMM features 1386
+Saving HMM features 1387
+Saving HMM features 1388
+Saving HMM features 1389
+Saving HMM features 1390
+Saving HMM features 1391
+Saving HMM features 1392
+Saving HMM features 1393
+Saving HMM features 1394
+Saving HMM features 1395
+Saving HMM features 1396
+Saving HMM features 1397
+Saving HMM features 1398
+Saving HMM features 1399
+Saving HMM features 1400
+Saving HMM features 1401
+Saving HMM features 1402
+Saving HMM features 1403
+Saving HMM features 1404
+Saving HMM features 1405
+Saving HMM features 1406
+Saving HMM features 1407
+Saving HMM features 1408
+Saving HMM features 1409
+Saving HMM features 1410
+Saving HMM features 1411
+Saving HMM features 1412
+Saving HMM features 1413
+Saving HMM features 1414
+Saving HMM features 1415
+Saving HMM features 1416
+Saving HMM features 1417
+Saving HMM features 1418
+Saving HMM features 1419
+Saving HMM features 1420
+Saving HMM features 1421
+Saving HMM features 1422
+Saving HMM features 1423
+Saving HMM features 1424
+Saving HMM features 1425
+Saving HMM features 1426
+Saving HMM features 1427
+Saving HMM features 1428
+Saving HMM features 1429
+Saving HMM features 1430
+Saving HMM features 1431
+Saving HMM features 1432
+Saving HMM features 1433
+Saving HMM features 1434
+Saving HMM features 1435
+Saving HMM features 1436
+Saving HMM features 1437
+Saving HMM features 1438
+Saving HMM features 1439
+Saving HMM features 1440
+Saving HMM features 1441
+Saving HMM features 1442
+Saving HMM features 1443
+Saving HMM features 1444
+Saving HMM features 1445
+Saving HMM features 1446
+Saving HMM features 1447
+Saving HMM features 1448
+Saving HMM features 1449
+Saving HMM features 1450
+Saving HMM features 1451
+Saving HMM features 1452
+Saving HMM features 1453
+Saving HMM features 1454
+Saving HMM features 1455
+Saving HMM features 1456
+Saving HMM features 1457
+Job finished! GG, folks!
