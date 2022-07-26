@@ -12,6 +12,7 @@ Matlab code originally written by John Paisley at Columbia University.
 
 ## Instructions
 \\
-*1* Change "insert_path" to match project key
-*2* Run scripts 1-4 in order in one matlab window
-*3* Run script ../SpecUFExOut_to_H5 
+
+~1 Change "insert_path" to match project key
+~2 Run scripts 1-4 in order in one matlab window
+~3 Run script ../SpecUFExOut_to_H5 
