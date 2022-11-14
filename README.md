@@ -80,9 +80,9 @@ SawiEtAl_2022/Events/02_src/
 ```
 Simply run the Jupyter notebooks in numerical order
 
-1. plotFigures1-4.ipynb
-2. plotFigures5_6_11_12.ipynb
-3. plotFigures7-10.ipynb
+1. [plotFigures1-4.ipynb](https://github.com/tsawi/SawiEtAl_2022/blob/main/Events/02_src/plotFigures1-4.ipynb)
+2. [plotFigures5_6_11_12.ipynb](https://github.com/tsawi/SawiEtAl_2022/blob/main/Events/02_src/plotFigures5_6_11_12.ipynb)
+3. [plotFigures7-10.ipynb](https://github.com/tsawi/SawiEtAl_2022/blob/main/Events/02_src/plotFigures7-10.ipynb)
 
 
 
