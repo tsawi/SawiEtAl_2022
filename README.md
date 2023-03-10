@@ -1,6 +1,6 @@
 # An Unsupervised Machine-Learning Approach to Understanding Seismicity at an Alpine Glacier
 
-By Theresa Sawi, Ben Holtzman, Meredith Nettles, Fabian Walter and John Paisley
+By Theresa Sawi, Ben Holtzman, Fabian Walter and John Paisley
 
 
 
